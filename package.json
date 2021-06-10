@@ -1,0 +1,29 @@
+{
+    "name": "disin",
+    "version": "1.0.0",
+    "description": "Disin - React Next Healthcare Clinic & Doctor Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "HiBootstrap.com",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.0",
+        "next": "^10.0.3",
+        "nodemailer": "^6.4.16",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^17.0.1",
+        "react-accessible-accordion": "^3.3.3",
+        "react-dom": "^17.0.1",
+        "react-hook-form": "^6.12.2",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-tabs": "^3.1.1",
+        "sass": "^1.30.0",
+        "sweetalert2": "^10.11.1",
+        "sweetalert2-react-content": "^3.2.2"
+    }
+}
