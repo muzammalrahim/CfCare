@@ -49,7 +49,7 @@ const TopHeader = () => {
                                             <i className="icofont-facebook"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a href="#" target="_blank">
                                             <i className="icofont-twitter"></i>
                                         </a>
@@ -58,12 +58,12 @@ const TopHeader = () => {
                                         <a href="#" target="_blank">
                                             <i className="icofont-linkedin"></i>
                                         </a>
-                                    </li>
-                                    <li>
+                                    </li> */}
+                                    {/* <li>
                                         <a href="#" target="_blank">
                                             <i className="icofont-instagram"></i>
                                         </a>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>

@@ -149,7 +149,7 @@ button:focus {
 }
 
 .header-top-item .header-top-left ul li i {
-  color: #0046c0;
+  color: green;
   font-size: 18px;
   position: relative;
   top: 2px;
@@ -166,11 +166,11 @@ button:focus {
 }
 
 .header-top-item .header-top-left ul li a:hover {
-  color: #0046c0;
+  color: green;
 }
 
 .header-top-item .header-top-left ul li a i {
-  color: #0046c0;
+  color: green;
   font-size: 18px;
   position: relative;
   top: 2px;
@@ -205,13 +205,13 @@ button:focus {
   font-size: 16px;
   text-align: center;
   border: 1px solid transparent;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .header-top-item .header-top-right ul li a:hover {
-  color: #0046c0;
+  color: green;
   background-color: transparent;
-  border: 1px solid #0046c0;
+  border: 1px solid green;
 }
 
 /*-- End Header Top --*/
@@ -238,7 +238,7 @@ button:focus {
 }
 
 .main-nav nav .navbar-nav .nav-item:hover a {
-  color: #0046c0;
+  color: green;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu {
@@ -246,7 +246,7 @@ button:focus {
   -webkit-box-shadow: 0px 0px 15px 0px #ddd;
           box-shadow: 0px 0px 15px 0px #ddd;
   border: 0;
-  border-top: 2px solid #0046c0;
+  border-top: 2px solid green;
   padding: 10px 0;
 }
 
@@ -256,15 +256,15 @@ button:focus {
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:hover, .main-nav nav .navbar-nav .nav-item .dropdown-menu li a:focus, .main-nav nav .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #0046c0;
+  color: green;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover a {
-  color: #0046c0;
+  color: green;
 }
 
 .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover a:hover, .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover a:focus, .main-nav nav .navbar-nav .nav-item .dropdown-menu li:hover a.active {
-  color: #0046c0;
+  color: green;
 }
 
 .main-nav nav .navbar-nav .nav-item a {
@@ -275,7 +275,7 @@ button:focus {
 }
 
 .main-nav nav .navbar-nav .nav-item a:hover, .main-nav nav .navbar-nav .nav-item a:focus, .main-nav nav .navbar-nav .nav-item a.active {
-  color: #0046c0;
+  color: green;
 }
 
 .search-icon {
@@ -284,12 +284,16 @@ button:focus {
   outline: none;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
-  color: #0046c0;
+  color: green;
   background-color: #d8e0e8;
   width: 40px;
   height: 40px;
   line-height: 40px;
   border-radius: 5px;
+}
+
+.navbar-brand img{
+  width: 150px;
 }
 
 .search-icon:hover {
@@ -346,7 +350,7 @@ button:focus {
   width: 35px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  background: #221638;
+  background: green;
   height: 4px;
   display: block;
   border-radius: 3px;
@@ -817,7 +821,7 @@ button:focus {
   bottom: 0;
   width: 80px;
   height: 5px;
-  background-color: #0046c0;
+  background-color: green;
   border-radius: 5px;
 }
 
@@ -951,7 +955,7 @@ button:focus {
 }
 
 .expertise-item .expertise-inner {
-  background-color: #0046c0;
+  background-color: green;
   padding: 42px 25px 35px 25px;
   border-radius: 10px;
   margin-bottom: 30px;
@@ -970,7 +974,7 @@ button:focus {
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
-  color: #0046c0;
+  color: green;
   font-size: 30px;
   margin-bottom: 35px;
   -webkit-box-shadow: 0px 0px 0px 7px #ffffffa6;
@@ -1010,7 +1014,7 @@ button:focus {
   border-radius: 10px;
   -webkit-animation: a-one 5s infinite linear;
           animation: a-one 5s infinite linear;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .expertise-item .expertise-right:after {
@@ -1024,7 +1028,7 @@ button:focus {
   border-radius: 10px;
   -webkit-animation: a-two 5s infinite linear;
           animation: a-two 5s infinite linear;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .expertise-item .expertise-right img {
@@ -1940,7 +1944,7 @@ footer {
   position: absolute;
   bottom: 20px;
   left: -70px;
-  background-color: #0046c0;
+  background-color: green;
   padding: 30px 295px 25px 40px;
   border-radius: 10px;
 }
@@ -1958,7 +1962,7 @@ footer {
 .speciality-right .speciality-emergency .speciality-icon i {
   display: inline-block;
   line-height: 45px;
-  color: #0046c0;
+  color: green;
   text-align: center;
   font-size: 20px;
   -webkit-transform: rotate(-45deg);
@@ -3608,7 +3612,7 @@ footer {
   text-align: center;
   font-size: 32px;
   margin-bottom: 25px;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .location-wrap .location-item h3 {
@@ -3623,7 +3627,7 @@ footer {
 
 .location-wrap .location-item a {
   display: inline-block;
-  color: #0046c0;
+  color: green;
 }
 
 .location-wrap .location-item a:hover {
@@ -3690,7 +3694,7 @@ footer {
   padding: 14px 35px;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
-  background-color: #0046c0;
+  background-color: green;
   -webkit-box-shadow: none;
           box-shadow: none;
   border: 0;

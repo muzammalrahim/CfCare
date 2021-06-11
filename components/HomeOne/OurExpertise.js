@@ -18,7 +18,7 @@ const OurExpertise = () => {
                                         <i className="icofont-doctor-alt"></i>
                                         <h3> 
                                             <Link href="/#">
-                                                <a>Certified Doctors</a>
+                                                <a>Online Bookings</a>
                                             </Link>
                                         </h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -29,7 +29,7 @@ const OurExpertise = () => {
                                         <i className="icofont-stretcher"></i>
                                         <h3> 
                                             <Link href="/#">
-                                                <a>Emergency</a>
+                                                <a>Request Script</a>
                                             </Link>
                                         </h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -40,7 +40,7 @@ const OurExpertise = () => {
                                         <i className="icofont-network"></i>
                                         <h3> 
                                             <Link href="/#">
-                                                <a>Teachnology</a>
+                                                <a>Request Referral</a>
                                             </Link>
                                         </h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -51,7 +51,7 @@ const OurExpertise = () => {
                                         <i className="icofont-ambulance-cross"></i>
                                         <h3> 
                                             <Link href="/#">
-                                                <a>Ambulance</a>
+                                                <a>After Hours Appointment</a>
                                             </Link>
                                         </h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>

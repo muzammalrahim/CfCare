@@ -73,28 +73,22 @@ const Footer = () => {
                         <div className="col-sm-6 col-lg-3">
                             <div className="footer-item">
                                 <div className="footer-quick">
-                                    <h3>Our Services</h3>
+                                    <h3>Quick Bookings</h3>
                                     <ul>
                                         <li>
-                                            <a href="#">Women's Health</a>
+                                            <a href="https://www.cfcare.com.au/">Request Script</a>
                                         </li>
                                         <li>
-                                            <a href="#">Men's Health</a>
+                                            <a href="https://www.cfcare.com.au/">After Hour's Appointment</a>
                                         </li>
                                         <li>
-                                            <a href="#">Workcover & TAC</a>
+                                            <a href="https://www.cfcare.com.au/">Request Referral</a>
                                         </li>
                                         <li>
-                                            <a href="#">Children's Immunisations</a>
+                                            <a href="https://www.cfcare.com.au/">Optometrist</a>
                                         </li>
                                         <li>
-                                            <a href="#">Travel Vaccines</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Allied Health</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Shared Care</a>
+                                            <a href="https://www.cfcare.com.au/">Online Booking</a>
                                         </li>
                                     </ul>
                                 </div>

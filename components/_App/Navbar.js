@@ -30,7 +30,7 @@ const Navbar = () => {
                     <nav className="navbar navbar-expand-md navbar-light">
                         <Link href="/">
                             <a onClick={toggleNavbar} className="navbar-brand">
-                                <img src="/images/logo.png" alt="logo" />
+                                <img src="/images/logo1.png" alt="logo" />
                             </a>
                         </Link>
 
@@ -156,7 +156,7 @@ const Navbar = () => {
                                 </li>
 
                                 <li className="nav-item">
-                                    <Link href="/#">
+                                    <Link href="/doctors">
                                         <a onClick={e => e.preventDefault()} className="nav-link dropdown-toggle">
                                             Our Team
                                         </a>
