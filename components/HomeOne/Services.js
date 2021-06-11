@@ -181,6 +181,9 @@ const Services = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="col-sm-12 col-lg-12 text-center about-item">
+                             <a href="/services">Read More</a>
+                        </div>
 
                 </div>
             </div>

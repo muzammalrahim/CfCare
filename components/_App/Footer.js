@@ -93,7 +93,29 @@ const Footer = () => {
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
+
+                        {/* <div className="col-sm-6 col=lg-3">
+                            <div className="footer-item">
+                                <div className="footer-hours">
+                                    <h3>Business Hours</h3>
+                                    <p>Monday <span>   8:00am</span><span>   8:00pm</span></p>
+                                    
+                                    <p>Tuesday <span>   8:00am</span><span>   8:00pm</span></p>
+                                    
+                                    <p>Wednesday <span>   8:00am</span><span>   8:00pm</span></p>
+                                    
+                                    <p>Thursday <span>   8:00am</span><span>   8:00pm</span></p>
+                                    
+                                    <p>Friday <span>   8:00am</span><span>   8:00pm</span></p>
+                                    
+                                    <p>Saturday <span>   9:00am</span><span>   3:00pm</span></p>
+                                    
+                                    <p>Sunday <span>   Closed</span></p>
+                                    
+                                </div>
+                            </div>
+                        </div> */}
 
                         <div className="col-sm-6 col-lg-3">
                             <div className="footer-item">
@@ -118,12 +140,26 @@ const Footer = () => {
                         </div>
                     </div>
                 </div>
+                <div className="container">
+                    <div className="row">
+                        <div class="hours col-sm-12 col-lg-12">
+                            <p>Monday 8am-8pm</p>
+                            <p>Tuesday 8am-8pm</p>
+                            <p>Wednesday 8am-8pm</p>
+                            <p>Thursday 8am-8pm</p>
+                            <p>Friday 8am-8pm</p>
+                            <p>Saturday 9am-3pm</p>
+                            <p>Sunday Closed</p>
+                        </div>
+                            <p className="col-sm-12 col-lg-12 text-center">Public Holidays 9am to 4pm</p>
+                    </div>
+                </div>
             </footer>
 
             <div className="copyright-area">
                 <div className="container">
                     <div className="copyright-item">
-                        <p>Copyright @{currentYear} Design & Developed by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a></p>
+                        <p>Copyright (c) 2021 Design & Developed by <a href="https://lavonglobal.com.au/" target="_blank">Lavon Global</a></p>
                     </div>
                 </div>
             </div>

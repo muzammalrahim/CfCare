@@ -163,9 +163,59 @@ const Navbar = () => {
                                     </Link>
 
                                     <ul className="dropdown-menu">
+                                    <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr.pietas Nyamayaro</a>
+                                            </Link>
+                                        </li>
                                         <li className="nav-item">
-                                            <Link href="/doctors" activeClassName="active">
-                                                <a onClick={toggleNavbar} className="nav-link">Doctors</a>
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Richard Cai</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Matthew Wilson</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Huda Al-Rawi</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Sunil Bhojwani</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Hanna El-Khoury</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Sana Al-Rubaye</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dr. Roozbeh Malekzadeh</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Diabetes Educator</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Dietitan</a>
+                                            </Link>
+                                        </li>
+                                        <li className="nav-item">
+                                            <Link href="/doctor-details" activeClassName="active">
+                                                <a onClick={toggleNavbar} className="nav-link">Optometrist</a>
                                             </Link>
                                         </li>
 {/* 

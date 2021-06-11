@@ -9,7 +9,7 @@ const Stats = () => {
                         <div className="counter-item">
                             <i className="icofont-patient-bed"></i>
                             <h3 className="counter">850</h3>
-                            <p>Patients Beds</p>
+                            <p>Covid Vaccines</p>
                         </div>
                     </div>
 
@@ -32,7 +32,7 @@ const Stats = () => {
                     <div className="col-sm-6 col-md-3 col-lg-3">
                         <div className="counter-item">
                             <i className="icofont-badge"></i>
-                            <h3 className="counter">18</h3>
+                            <h3 className="counter">25</h3>
                             <p>Year Experience</p>
                         </div>
                     </div>
