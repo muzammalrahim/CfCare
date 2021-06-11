@@ -6,11 +6,11 @@ const Layout = ({ children }) => {
     return(
         <React.Fragment>
             <Head>
-                <title>Disin - React Next Healthcare Clinic & Doctor Template</title>
+                <title>Complete Family Care Medical Centre | Newport</title>
                 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-                <meta name="description" content="Disin - React Next Healthcare Clinic & Doctor Template" />
-                <meta name="og:title" property="og:title" content="Disin - React Next Healthcare Clinic & Doctor Template"></meta>
-                <meta name="twitter:card" content="Disin - React Next Healthcare Clinic & Doctor Template"></meta>
+                <meta name="description" content="Complete Family Care Medical Centre | Newport" />
+                <meta name="og:title" property="og:title" content="Complete Family Care Medical Centre | Newport"></meta>
+                <meta name="twitter:card" content="Complete Family Care Medical Centre | Newport"></meta>
                 <link rel="canonical" href="https://disin-react.envytheme.com/"></link>
             </Head>
 
