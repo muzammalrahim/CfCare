@@ -24,7 +24,7 @@ const OurDoctors = () => {
                                         <a>Dr. Pietas Nyamayaro</a>
                                     </Link>
                                 </h3>
-                                <span>Neurosurgeon</span>
+                                <span>NShared Care and Iron Infusion</span>
                             </div>
                         </div>
                     </div>
@@ -39,11 +39,11 @@ const OurDoctors = () => {
                             </div>
                             <div className="doctor-bottom">
                                 <h3>
-                                    <Link href="/doctor-details">
+                                    <Link href="/dr-huda">
                                         <a>Dr. Huda Al-Rawi</a>
                                     </Link>
                                 </h3>
-                                <span>Neurosurgeon</span>
+                                <span>Shared Care and Iron Infusion</span>
                             </div>
                         </div>
                     </div>
@@ -58,18 +58,18 @@ const OurDoctors = () => {
                             </div>
                             <div className="doctor-bottom">
                                 <h3>
-                                    <Link href="/doctor-details">
+                                    <Link href="/dr-richard">
                                         <a>Dr. Richard Cai</a>
                                     </Link>
                                 </h3>
-                                <span>Dental Surgeon</span>
+                                <span>Skin Specialist</span>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <div className="doctor-btn">
-                    <Link href="/doctor-details">
+                    <Link href="/doctors">
                         <a>See All</a>
                     </Link>
                 </div>

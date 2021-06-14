@@ -1235,7 +1235,7 @@ button {
         .form-control {
             height: 75px;
             border-radius: 10px;
-            border: 1px solid $main-color;
+            border: 1px solid green;
             padding-left: 25px;
             font-size: 18px;
 
@@ -2699,7 +2699,7 @@ footer {
                 }
                 i {
                     display: inline-block;
-                    color: $main-color;
+                    color: green !important;
                     margin-right: 10px;
                     font-size: 18px;
                     position: relative;

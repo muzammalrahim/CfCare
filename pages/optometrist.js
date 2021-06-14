@@ -12,10 +12,10 @@ const DoctorDetails = () => {
             <Navbar />
 
             <PageBanner 
-                pageTitle="Dr. Pietas Nyamayaro" 
+                pageTitle="Optometrist" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Dr. Pietas Nyamayaro" 
+                activePageText="Optometrist" 
                 bgImage="page-title-five" 
             /> 
  
@@ -24,7 +24,7 @@ const DoctorDetails = () => {
                     <div className="row">
                         <div className="col-lg-5">
                             <div className="doctor-details-item doctor-details-left">
-                                <img src="/images/doctors/pietas.jpg" alt="Doctor" />
+                                <img src="/images/doctors/doctor3.jpg" alt="Doctor" />
 
                                 <div className="doctor-details-contact">
                                     <h3>Contact info</h3>
@@ -64,8 +64,8 @@ const DoctorDetails = () => {
                             <div className="doctor-details-item">
                                 <div className="doctor-details-right">
                                     <div className="doctor-details-biography">
-                                        <h3>Dr. Pietas Nyamayaro</h3>
-                                        <p>Shared Care, Iron Infusion</p>
+                                        <h3>Optometrist</h3>
+                                        <p>MBBS in Neurology, PHD in Neurosurgeon</p>
                                     </div>
 
                                     <div className="doctor-details-biography">

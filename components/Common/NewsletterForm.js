@@ -2,7 +2,7 @@ import React from 'react';
 
 const NewsletterForm = () => {
     return (
-        <div className="newsletter-area ptb-100">
+        <div className="newsletter-area">
             <div className="container">
                 <div className="row newsletter-wrap align-items-center">
                     <div className="col-lg-6">

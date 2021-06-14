@@ -40,14 +40,14 @@ const HeroSlider = () => {
                                         <img src="/images/home-one/home-slider1.png" alt="Shape" />
                                     </div>
 
-                                    <h1>Exceptional Health Care for Woman</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                    <h1>Complete Family Care Medical Centre</h1>
+                                    <p>We set a high level of professionalism for both our doctors and staff, with constant training and up to date emergency procedures. We look at and use experiences as a learning curve to improve our practice and delivery of care. Learning and working together as a team to provide the best level of cover to our patients and the locality of Hobson's Bay.</p>
 
                                     <div className="common-btn">
                                         <Link href="/appointment">
-                                            <a>Get Appointment</a>
+                                            <a>Book Online</a>
                                         </Link>
-                                        <Link href="/about">
+                                        <Link href="/services">
                                             <a className="cmn-btn-right">Learn More</a>
                                         </Link>
                                     </div>
@@ -65,14 +65,14 @@ const HeroSlider = () => {
                                     <div className="slider-shape-two">
                                         <img src="/images/home-one/home-slider2.png" alt="Shape" />
                                     </div>
-                                    <h1>Caring Health is Important Than All</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                    <h1>Complete Family Care Medical Centre</h1>
+                                    <p>We set a high level of professionalism for both our doctors and staff, with constant training and up to date emergency procedures. We look at and use experiences as a learning curve to improve our practice and delivery of care. Learning and working together as a team to provide the best level of cover to our patients and the locality of Hobson's Bay.</p>
                                     
                                     <div className="common-btn">
                                         <Link href="/appointment">
-                                            <a>Get Appointment</a>
+                                            <a>Book Online</a>
                                         </Link>
-                                        <Link href="/about">
+                                        <Link href="/services">
                                             <a className="cmn-btn-right">Learn More</a>
                                         </Link>
                                     </div>
@@ -90,14 +90,14 @@ const HeroSlider = () => {
                                     <div className="slider-shape-three">
                                         <img src="/images/home-one/home-slider3.png" alt="Shape" />
                                     </div>
-                                    <h1>We Offer Highly Treatments</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida.</p>
+                                    <h1>Complete Family Care Medical Centre</h1>
+                                    <p>We set a high level of professionalism for both our doctors and staff, with constant training and up to date emergency procedures. We look at and use experiences as a learning curve to improve our practice and delivery of care. Learning and working together as a team to provide the best level of cover to our patients and the locality of Hobson's Bay.</p>
                                     
                                     <div className="common-btn">
                                         <Link href="/appointment">
-                                            <a>Get Appointment</a>
+                                            <a>Book Online</a>
                                         </Link>
-                                        <Link href="/about">
+                                        <Link href="/services">
                                             <a className="cmn-btn-right">Learn More</a>
                                         </Link>
                                     </div>

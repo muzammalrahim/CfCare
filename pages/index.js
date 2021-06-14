@@ -9,7 +9,7 @@ import OurExpertise from '../components/HomeOne/OurExpertise';
 import VideoIntro from '../components/Common/VideoIntro';
 import OurDoctors from '../components/Common/OurDoctors';
 import LatestBlogPost from '../components/Common/LatestBlogPost';
-import NewsletterForm from '../components/Common/NewsletterForm';
+// import NewsletterForm from '../components/Common/NewsletterForm';
 import Footer from '../components/_App/Footer';
 
 const Index = () => {
@@ -25,7 +25,7 @@ const Index = () => {
             <VideoIntro />
             <OurDoctors />
             <LatestBlogPost />
-            <NewsletterForm />
+            {/* <NewsletterForm /> */}
             <Footer />
         </React.Fragment>
     )

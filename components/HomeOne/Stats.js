@@ -7,7 +7,7 @@ const Stats = () => {
                 <div className="row counter-bg">
                     <div className="col-sm-6 col-md-3 col-lg-3">
                         <div className="counter-item">
-                            <i className="icofont-patient-bed"></i>
+                            <i class="icofont-injection-syringe"></i>
                             <h3 className="counter">850</h3>
                             <p>Covid Vaccines</p>
                         </div>

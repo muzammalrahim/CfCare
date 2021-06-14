@@ -437,7 +437,7 @@ button:focus {
   height: 100%;
   left: 0;
   top: 0;
-  background-color: #0046c0;
+  background-color: #0080008f;
   opacity: .80;
 }
 
@@ -467,7 +467,7 @@ button:focus {
 
 .common-btn a {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   background-color: #ffffff;
   font-size: 15px;
   font-weight: 500;
@@ -496,7 +496,7 @@ button:focus {
 }
 
 .common-btn .cmn-btn-right:hover {
-  color: #0046c0;
+  color: green;
   background-color: #ffffff;
 }
 
@@ -514,7 +514,7 @@ button:focus {
   font-size: 28px;
   border-radius: 50%;
   color: #ffffff;
-  background-color: #2459b8;
+  background-color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
   padding: 0;
@@ -542,7 +542,7 @@ button:focus {
   width: 20px;
   height: 5px;
   margin: 5px 4px;
-  background-color: #0046c0;
+  background-color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
 }
@@ -577,7 +577,7 @@ button:focus {
 
 .counter-item i {
   display: block;
-  color: #0046c0;
+  color: green;
   font-size: 45px;
   margin-bottom: 20px;
 }
@@ -585,7 +585,7 @@ button:focus {
 .counter-item h3 {
   font-weight: 700;
   font-size: 48px;
-  color: #0046c0;
+  color: green;
   margin-bottom: 8px;
 }
 
@@ -633,7 +633,7 @@ button:focus {
 .about-item ul li i {
   display: inline-block;
   margin-right: 10px;
-  color: #0046c0;
+  color: green;
   font-size: 23px;
   position: relative;
   top: 2px;
@@ -643,7 +643,7 @@ button:focus {
   display: inline-block;
   font-size: 15px;
   color: #ffffff;
-  background-color: #0046c0;
+  background-color: green;
   font-weight: 500;
   padding: 20px 45px;
   border-radius: 5px;
@@ -677,7 +677,7 @@ button:focus {
   z-index: -1;
   -webkit-animation: a-one 5s infinite linear;
           animation: a-one 5s infinite linear;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .about-left:after {
@@ -690,8 +690,8 @@ button:focus {
   border-radius: 10px;
   z-index: -1;
   -webkit-animation: a-two 5s infinite linear;
-          animation: a-two 5s infinite linear;
-  background-color: #0046c0;
+  animation: a-two 5s infinite linear;
+  background-color: green;
 }
 
 @-webkit-keyframes a-one {
@@ -845,16 +845,20 @@ button:focus {
   left: 0;
   top: 0;
   opacity: .50;
-  background-color: #0046c0;
+  background-color: green;
   opacity: 0;
   z-index: -1;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
+  padding-top:25px !important;
+  padding-bottom:25px !important;
 }
 
 .service-item:hover {
   -webkit-box-shadow: none;
           box-shadow: none;
+          padding-top:30px !important;
+          padding-bottom:30px !important;
 }
 
 .service-item:hover:before {
@@ -885,7 +889,7 @@ button:focus {
 
 .service-item .service-front i {
   display: block;
-  color: #4d93e9;
+  color: green;
   font-size: 65px;
   margin-bottom: 20px;
 }
@@ -934,7 +938,7 @@ button:focus {
 
 .service-item .service-end a {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   background-color: #ffffff;
   padding: 12px 15px;
 }
@@ -1085,7 +1089,7 @@ button:focus {
   height: 110px;
   line-height: 110px;
   border-radius: 50%;
-  color: #4d93e9;
+  color: lightgreen;
   font-size: 35px;
   background-color: #ffffff;
   cursor: pointer;
@@ -1141,7 +1145,7 @@ button:focus {
 
 .video-wrap .react-tabs__tab-list .react-tabs__tab {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   font-size: 16px;
   font-weight: 600;
   background-color: transparent;
@@ -1152,7 +1156,7 @@ button:focus {
 }
 
 .video-wrap .react-tabs__tab-list .react-tabs__tab.react-tabs__tab--selected {
-  background-color: #0046c0;
+  background-color: green;
   color: #fff;
 }
 
@@ -1185,7 +1189,7 @@ button:focus {
 
 .doctor-item .doctor-top a {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   font-size: 14px;
   font-weight: 600;
   padding: 15px 0;
@@ -1225,7 +1229,7 @@ button:focus {
 }
 
 .doctor-item .doctor-bottom h3 a:hover {
-  color: #0046c0;
+  color: green;
 }
 
 .doctor-item .doctor-bottom span {
@@ -1244,15 +1248,16 @@ button:focus {
   font-weight: 600;
   color: #232323;
   font-size: 18px;
-  border: 2px solid #386ae6;
+  border: 2px solid green;
   padding: 18px 55px;
   border-radius: 10px;
 }
 
 .doctor-btn a:hover {
   color: #ffffff;
-  background-color: #386ae6;
+  background-color: green;
 }
+
 
 /*-- End Doctors --*/
 /*-- Blog --*/
@@ -1442,7 +1447,7 @@ button:focus {
   top: 7px;
   right: 7px;
   color: #ffffff;
-  background-color: #0046c0;
+  background-color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
   opacity: 1;
@@ -1457,6 +1462,10 @@ button:focus {
   margin-top: 10px;
 }
 
+.newsletter-item .newsletter-form .form-control{
+  border: 1px solid green;
+}
+
 /*-- End Newsletter --*/
 /*-- Footer --*/
 footer {
@@ -1464,7 +1473,7 @@ footer {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-color: #0843aa;
+  background-color: #0080008f;
   position: relative;
 }
 
@@ -1615,20 +1624,20 @@ footer {
   background-color: #ffffff;
   padding: 12px 35px;
   border-radius: 30px;
-  color: #0046c0;
+  color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
 }
 
 .footer-item .footer-feedback .feedback-btn:hover {
   color: #ffffff;
-  background-color: #111111;
+  background-color: #045704;
 }
 
 /*-- End Footer --*/
 /*-- Copyright --*/
 .copyright-area {
-  background-color: #001230;
+  background-color: #045704;
 }
 
 .copyright-area .copyright-item {
@@ -2050,7 +2059,7 @@ footer {
 }
 
 .appointment-item h2 {
-  color: #0046c0;
+  color: green;
   font-weight: 600;
   font-size: 30px;
   margin-bottom: 15px;
@@ -2072,7 +2081,7 @@ footer {
 
 .appointment-item .appointment-form .form-group i {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   position: absolute;
   top: 11px;
   left: 0;
@@ -2089,7 +2098,7 @@ footer {
 .appointment-item .appointment-form .form-group .form-control {
   border-radius: 0;
   border: 0;
-  border-bottom: 1px solid #0046c09e;
+  border-bottom: 1px solid green;
   font-size: 15px;
   padding-left: 0;
   padding-bottom: 8px;
@@ -2100,7 +2109,7 @@ footer {
 .appointment-item .appointment-form .form-group .form-control:focus {
   -webkit-box-shadow: none;
           box-shadow: none;
-  border-bottom: 1px solid #0046c09e;
+  border-bottom: 1px solid green;
 }
 
 .appointment-item .appointment-form .form-group ::-webkit-input-placeholder {
@@ -2121,7 +2130,7 @@ footer {
 
 .appointment-item .appointment-form .appointment-btn {
   color: #ffffff;
-  background-color: #0046c0;
+  background-color: green;
   font-weight: 500;
   font-size: 15px;
   border-radius: 5px;
@@ -2173,7 +2182,7 @@ footer {
 .banner-item .common-btn-two a {
   display: inline-block;
   color: #ffffff;
-  background-color: #0046c0;
+  background-color: green;
   font-size: 15px;
   font-weight: 500;
   padding: 12px 18px;
@@ -2184,8 +2193,8 @@ footer {
 
 .banner-item .common-btn-two a:hover {
   background-color: transparent;
-  border: 2px solid #0046c0;
-  color: #0046c0;
+  border: 2px solid green;
+  color: green;
 }
 
 .banner-item .common-btn-two a:last-child {
@@ -2194,15 +2203,15 @@ footer {
 
 .banner-item .common-btn-two .cmn-btn-right-two {
   background-color: transparent;
-  color: #0046c0;
-  border: 2px solid #0046c0;
+  color: green;
+  border: 2px solid green;
   padding-left: 25px;
   padding-right: 25px;
 }
 
 .banner-item .common-btn-two .cmn-btn-right-two:hover {
   color: #ffffff;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .banner-item .banner-right img {
@@ -2393,7 +2402,7 @@ footer {
   height: 110px;
   line-height: 110px;
   border-radius: 50%;
-  color: #0046c0;
+  color: green;
   text-align: center;
   font-size: 32px;
   background-color: #ffffff;
@@ -2451,7 +2460,7 @@ footer {
 .hospital-item .hospital-btn {
   display: inline-block;
   color: #ffffff;
-  background-color: #0046c0;
+  background-color: green;
   border-radius: 10px;
   font-weight: 500;
   font-size: 15px;
@@ -2478,7 +2487,7 @@ footer {
   height: 380px;
   z-index: -1;
   border-radius: 10px;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .hospital-item .hospital-left-one img {
@@ -2502,7 +2511,7 @@ footer {
   height: 380px;
   z-index: -1;
   border-radius: 10px;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 .hospital-item .hospital-left-two img {
@@ -2529,7 +2538,7 @@ footer {
   width: 405px;
   height: 300px;
   z-index: -1;
-  background-color: #0046c0;
+  background-color: green;
 }
 
 /*-- End Speciality --*/
@@ -2752,7 +2761,7 @@ footer {
   width: 100%;
   height: 100%;
   opacity: .50;
-  background-color: #0046c0;
+  background-color: #0080008f;
 }
 
 .page-title-item {
@@ -2838,7 +2847,7 @@ footer {
 
 .doctor-search-item .form-group i {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   font-size: 45px;
   position: absolute;
   top: 8px;
@@ -3063,7 +3072,7 @@ footer {
 
 .doctor-details-item .doctor-details-contact ul li i {
   display: inline-block;
-  color: #0046c0;
+  color: green;
   margin-right: 10px;
   font-size: 18px;
   position: relative;
@@ -3115,7 +3124,7 @@ footer {
 .doctor-details-item .doctor-details-biography h3 {
   font-weight: 600;
   font-size: 24px;
-  color: #2f60bd;
+  color: green;
   margin-bottom: 25px;
 }
 
@@ -3600,6 +3609,7 @@ footer {
   text-align: center;
   border: 1px solid #eee;
   padding: 30px 15px;
+  min-height: 260px;
 }
 
 .location-wrap .location-item i {
@@ -4369,7 +4379,7 @@ footer {
 }
 
 .go-top i {
-  background-color: #0046c0;
+  background-color: green;
   color: #ffffff;
   height: 50px;
   width: 50px;
@@ -4381,8 +4391,8 @@ footer {
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
   margin-right: 28px;
-  -webkit-box-shadow: 0px 0px 14px 0px #0046c0;
-          box-shadow: 0px 0px 14px 0px #0046c0;
+  -webkit-box-shadow: 0px 0px 14px 0px green;
+          box-shadow: 0px 0px 14px 0px green;
 }
 
 .go-top i:hover {

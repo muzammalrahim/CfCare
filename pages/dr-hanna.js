@@ -12,10 +12,10 @@ const DoctorDetails = () => {
             <Navbar />
 
             <PageBanner 
-                pageTitle="Dr. Pietas Nyamayaro" 
+                pageTitle="Dr. Hanna El-Khoury" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Dr. Pietas Nyamayaro" 
+                activePageText="Dr. Hanna El-Khoury" 
                 bgImage="page-title-five" 
             /> 
  
@@ -24,7 +24,7 @@ const DoctorDetails = () => {
                     <div className="row">
                         <div className="col-lg-5">
                             <div className="doctor-details-item doctor-details-left">
-                                <img src="/images/doctors/pietas.jpg" alt="Doctor" />
+                                <img src="/images/doctors/hanna.png" alt="Doctor" />
 
                                 <div className="doctor-details-contact">
                                     <h3>Contact info</h3>
@@ -64,8 +64,8 @@ const DoctorDetails = () => {
                             <div className="doctor-details-item">
                                 <div className="doctor-details-right">
                                     <div className="doctor-details-biography">
-                                        <h3>Dr. Pietas Nyamayaro</h3>
-                                        <p>Shared Care, Iron Infusion</p>
+                                        <h3>Dr. Hanna El-Khoury</h3>
+                                        <p>Skin, Diabetes and Family Medicine</p>
                                     </div>
 
                                     <div className="doctor-details-biography">
@@ -83,8 +83,8 @@ const DoctorDetails = () => {
                                     <div className="doctor-details-biography">
                                         <h3>Education</h3>
                                         <ul>
-                                            <li>PHD Degree in Neurology at University of UCLan School of Medicine Preston (2006)</li>
-                                            <li>Master of Neurosurgery at University of University of Exeter Medical School Exeter (2002)</li>
+                                            <li>MBBS</li>
+                                            <li>RACGP</li>
                                         </ul>
                                     </div>
 

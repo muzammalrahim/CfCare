@@ -68,11 +68,11 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-pietas">
                                             <a>Dr. Pietas Nyamayaro</a>
                                         </Link>
                                     </h3>
-                                    <span>Neurosurgeon</span>
+                                    <span>Shared Care and Iron Infusion</span>
                                 </div>
                             </div>
                         </div>
@@ -87,11 +87,11 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-huda">
                                             <a>Dr. Huda Al-Rawi</a>
                                         </Link>
                                     </h3>
-                                    <span>Neurosurgeon</span>
+                                    <span>Shared Care and Iron Infusion</span>
                                 </div>
                             </div>
                         </div>
@@ -106,11 +106,11 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-richard">
                                             <a>Dr. Richard Cai</a>
                                         </Link>
                                     </h3>
-                                    <span>Dental Surgeon</span>
+                                    <span>Skin Specialist</span>
                                 </div>
                             </div>
                         </div>
@@ -125,7 +125,7 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-matthew">
                                             <a>Dr. Matthew Wilson</a>
                                         </Link>
                                     </h3>
@@ -144,7 +144,7 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-sunil">
                                             <a>Dr. Sunil Bhojwani</a>
                                         </Link>
                                     </h3>
@@ -163,11 +163,11 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-hanna">
                                             <a>Dr. Hanna El-Khoury</a>
                                         </Link>
                                     </h3>
-                                    <span>Dental Surgeon</span>
+                                    <span>Skin, Diebets and Family Medicine</span>
                                 </div>
                             </div>
                         </div>
@@ -175,18 +175,18 @@ const Doctors = () => {
                         <div className="col-sm-6 col-lg-4">
                             <div className="doctor-item">
                                 <div className="doctor-top">
-                                    <img src="/images/doctors/doctor7.jpg" alt="Doctor" />
+                                    <img src="/images/doctors/sana.jpg" alt="Doctor" />
                                     <Link href="/appointment">
                                         <a>Get Appointment</a>
                                     </Link>
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-sana">
                                             <a>Dr. Sana Al-Rubaye</a>
                                         </Link>
                                     </h3>
-                                    <span>Neurosurgeon</span>
+                                    <span>Shared Care, IUD and Implanon</span>
                                 </div>
                             </div>
                         </div>
@@ -194,15 +194,35 @@ const Doctors = () => {
                         <div className="col-sm-6 col-lg-4">
                             <div className="doctor-item">
                                 <div className="doctor-top">
-                                    <img src="/images/doctors/doctor8.jpg" alt="Doctor" />
+                                    <img src="/images/doctors/roozbeh.jpg" alt="Doctor" />
                                     <Link href="/appointment">
                                         <a>Get Appointment</a>
                                     </Link>
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/dr-roozbeh">
                                             <a>Dr. Roozbeh Malekzadeh</a>
+                                        </Link>
+                                    </h3>
+                                    <span>Counselling and Psychology</span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="col-sm-6 col-lg-4">
+                            <div className="doctor-item">
+                                <div className="doctor-top">
+                                    <img src="/images/doctors/faro.png" alt="Doctor" />
+                                    <Link href="/appointment">
+                                        <a>Get Appointment</a>
+                                    </Link>
+                                </div>
+                                <div className="doctor-bottom">
+                                    <h3>
+                                        <Link href="/dr-faro">
+                                            <a>
+                                            Dr. Faro Hace</a>
                                         </Link>
                                     </h3>
                                     <span>Neurosurgeon</span>
@@ -220,11 +240,11 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
-                                            <a>Diabetes Educator</a>
+                                        <Link href="/rhiannon-hedra">
+                                            <a>Rhiannon Hedra</a>
                                         </Link>
                                     </h3>
-                                    <span>Dental Surgeon</span>
+                                    <span>Diabetes Educator</span>
                                 </div>
                             </div>
                         </div>
@@ -239,11 +259,11 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
-                                            <a>Dietitan</a>
+                                        <Link href="/marian-salib">
+                                            <a>Marian Salib</a>
                                         </Link>
                                     </h3>
-                                    <span>Dental Surgeon</span>
+                                    <span>Dietitian</span>
                                 </div>
                             </div>
                         </div>
@@ -258,7 +278,7 @@ const Doctors = () => {
                                 </div>
                                 <div className="doctor-bottom">
                                     <h3>
-                                        <Link href="/doctor-details">
+                                        <Link href="/optometrist">
                                             <a>Optometrist</a>
                                         </Link>
                                     </h3>
