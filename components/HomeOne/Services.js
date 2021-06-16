@@ -23,7 +23,7 @@ const Services = () => {
                                       <h3>Women's Health</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
   
-                                      <Link href="/service-details">
+                                      <Link href="/womens-health">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -42,7 +42,7 @@ const Services = () => {
                                       <h3>Men's Health</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
   
-                                      <Link href="/service-details">
+                                      <Link href="/mens-health">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -61,7 +61,7 @@ const Services = () => {
                                       <h3>Workcover & TAC</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/workcover">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -80,7 +80,7 @@ const Services = () => {
                                       <h3>Children's Immunisation</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/childrens-immunisation">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -99,7 +99,7 @@ const Services = () => {
                                       <h3>Travel Vaccines</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/travel-vaccines">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -118,7 +118,7 @@ const Services = () => {
                                       <h3>Allied Health</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/allied-health">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -137,7 +137,7 @@ const Services = () => {
                                       <h3>Shared Care</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/shared-care">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -156,7 +156,7 @@ const Services = () => {
                                       <h3>Optometry</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/optometry">
                                           <a>Read More</a>
                                       </Link>
                                   </div>
@@ -175,7 +175,7 @@ const Services = () => {
                                       <h3>Dentistry</h3>
                                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</p>
                                       
-                                      <Link href="/service-details">
+                                      <Link href="/dentistry">
                                           <a>Read More</a>
                                       </Link>
                                   </div>

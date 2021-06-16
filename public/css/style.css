@@ -477,6 +477,44 @@ button:focus {
   border: 2px solid transparent;
 }
 
+.doctors-btn{
+  display: inline-block;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: green;
+    font-weight: 500;
+    padding: 20px 45px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 25px;
+}
+
+.doctors-details-btn{
+  display: inline-block;
+  font-size: 15px;
+  color: #ffffff;
+  background-color: green;
+  font-weight: 500;
+  padding: 20px 45px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 25px;
+}
+
+.doctors-details-btn:hover{
+  background-color: black;
+  transition: 0.5s all ease;
+}
+
+.center{
+  margin: 0 auto;
+}
+
+.doctors-btn:hover{
+   background-color: black;
+   transition: 0.5s all ease;
+}
+
 .common-btn a:hover {
   background-color: transparent;
   border: 2px solid #ffffff;
@@ -1102,6 +1140,15 @@ button:focus {
   background-color: #111111;
 }
 
+.text-center{
+  text-align: center;
+}
+
+.text-center img{
+  width: 200px !important;
+  right: 100px !important;
+}
+
 .video-item .video-content {
   margin-top: 90px;
   text-align: left;
@@ -1213,6 +1260,8 @@ button:focus {
 .doctor-item .doctor-top img {
   width: 100%;
   border-radius: 10px;
+  min-height: 350px;
+  max-height: 350px;
 }
 
 .doctor-item .doctor-bottom {
@@ -4190,7 +4239,7 @@ footer {
 /*-- Department --*/
 .department-item {
   text-align: center;
-  border: 1px solid #0046c0;
+  border: 1px solid green;
   padding-top: 30px;
   padding-bottom: 30px;
   -webkit-transition: 0.5s all ease;
@@ -4208,7 +4257,7 @@ footer {
   left: 0;
   top: 0;
   z-index: -1;
-  background-color: #0046c0;
+  background-color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
 }
@@ -4221,7 +4270,7 @@ footer {
   right: 0;
   top: 0;
   z-index: -1;
-  background-color: #0046c0;
+  background-color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
 }
@@ -4250,7 +4299,7 @@ footer {
   font-size: 45px;
   display: block;
   margin-bottom: 20px;
-  color: #0046c0;
+  color: green;
   -webkit-transition: 0.5s all ease;
   transition: 0.5s all ease;
 }

@@ -20,7 +20,7 @@ const OurDoctors = () => {
                             </div>
                             <div className="doctor-bottom">
                                 <h3>
-                                    <Link href="/doctor-details">
+                                    <Link href="/dr-pietas">
                                         <a>Dr. Pietas Nyamayaro</a>
                                     </Link>
                                 </h3>
@@ -51,7 +51,7 @@ const OurDoctors = () => {
                     <div className="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
                         <div className="doctor-item">
                             <div className="doctor-top">
-                                <img src="/images/doctors/richard.jpg" alt="Doctor" />
+                                <img src="/images/doctors/hanna.png" alt="Doctor" />
                                 <Link href="/appointment">
                                     <a>Get Appointment</a>
                                 </Link>
@@ -59,10 +59,10 @@ const OurDoctors = () => {
                             <div className="doctor-bottom">
                                 <h3>
                                     <Link href="/dr-richard">
-                                        <a>Dr. Richard Cai</a>
+                                        <a>Dr. Hanna El-Khoury</a>
                                     </Link>
                                 </h3>
-                                <span>Skin Specialist</span>
+                                <span>Skin, Diebetes and Family Medicine</span>
                             </div>
                         </div>
                     </div>

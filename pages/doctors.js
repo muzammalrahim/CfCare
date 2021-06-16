@@ -11,7 +11,7 @@ const Doctors = () => {
             <TopHeader />
             <Navbar />
             <PageBanner 
-                pageTitle="Meet Our Qualified Doctors" 
+                pageTitle="Meet Our Team" 
                 homePageUrl="/" 
                 homePageText="Home" 
                 activePageText="Doctors" 
@@ -20,7 +20,7 @@ const Doctors = () => {
 
             <div className="doctor-search-area">
                 <div className="container">
-                    <form>
+                    {/* <form>
                         <div className="row doctor-search-wrap">
                             <div className="col-sm-6 col-lg-6">
                                 <div className="doctor-search-item">
@@ -50,7 +50,14 @@ const Doctors = () => {
                                 </div>
                             </div>
                         </div>
-                    </form>
+                    </form> */}
+                    <div class="row doctor-search-wrap">
+                    <a class="center" href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors">
+                    <button class="doctors-btn">
+                        Our Doctors
+                    </button>
+                    </a>
+                    </div>
                 </div>
             </div>
 
@@ -210,7 +217,7 @@ const Doctors = () => {
                             </div>
                         </div>
 
-                        <div className="col-sm-6 col-lg-4">
+                        {/* <div className="col-sm-6 col-lg-4">
                             <div className="doctor-item">
                                 <div className="doctor-top">
                                     <img src="/images/doctors/faro.png" alt="Doctor" />
@@ -228,7 +235,7 @@ const Doctors = () => {
                                     <span>Neurosurgeon</span>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
                             <div className="doctor-item">

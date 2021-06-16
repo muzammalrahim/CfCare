@@ -4,6 +4,7 @@ import Navbar from '../components/_App/Navbar';
 import PageBanner from '../components/Common/PageBanner';
 import AppointmentFormTwo from '../components/Common/AppointmentFormTwo';
 import Footer from '../components/_App/Footer';
+import Link from 'next/link';
 
 const DoctorDetails = () => {
     return (
@@ -31,15 +32,15 @@ const DoctorDetails = () => {
                                     <ul>
                                         <li>
                                             <i className="icofont-ui-call"></i>
-                                            Call: +07 554 332 322
+                                            Call: +03 9391 0033
                                         </li>
                                         <li>
                                             <i className="icofont-ui-message"></i>
-                                            hello@disin.com
+                                            management@cfcare.com.au
                                         </li>
                                         <li>
                                             <i className="icofont-location-pin"></i>
-                                            4th Floor, 408 No Chamber
+                                            471 Melbourne Road, Newport, Melbourne, Victoria 3015
                                         </li>
                                     </ul>
                                 </div>
@@ -57,7 +58,15 @@ const DoctorDetails = () => {
                                         </div>
                                     </div>
                                 </div>
+                                
                             </div>
+                            <div className="about-item about-right text-center">
+                            <img src="/images/about-shape1.png" alt="About" />
+                            <h4>Time varies, please go to our online booking</h4>
+                            <button class="doctors-details-btn">
+                        Book Now
+                    </button>
+                        </div>
                         </div>
 
                         <div className="col-lg-7">

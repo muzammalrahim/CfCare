@@ -28,9 +28,9 @@ const TopHeader = () => {
                                         </a>
                                     </li>
                                     <li>
-                                        <i className="icofont-location-pin"></i>
-                                        471 Melbourne Road, Newport, Melbourne, Victoria 3015
-                                    </li>
+                                            <i className="icofont-location-pin"></i>
+                                            <a href="https://goo.gl/maps/ppZZzknFoGGsBDpv7">471 Melbourne Road, Newport, Melbourne, Victoria 3015</a>
+                                        </li>
                                     <li>
                                         <i className="icofont-medical-sign"></i>
                                         In case of emergency, Dial 000
@@ -48,6 +48,11 @@ const TopHeader = () => {
                                         <a href="#" target="_blank">
                                             <i className="icofont-facebook"></i>
                                         </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors" target="_blank">
+                                        <i class="icofont-live-support"></i>
+                                    </a>
                                     </li>
                                     {/* <li>
                                         <a href="#" target="_blank">

@@ -56,56 +56,6 @@ const HeroSlider = () => {
                         </div>
                     </div>
                 </div>
-
-                <div className="slider-item slider-item-img">
-                    <div className="d-table">
-                        <div className="d-table-cell">
-                            <div className="container">
-                                <div className="slider-text">
-                                    <div className="slider-shape-two">
-                                        <img src="/images/home-one/home-slider2.png" alt="Shape" />
-                                    </div>
-                                    <h1>Complete Family Care Medical Centre</h1>
-                                    <p>We set a high level of professionalism for both our doctors and staff, with constant training and up to date emergency procedures. We look at and use experiences as a learning curve to improve our practice and delivery of care. Learning and working together as a team to provide the best level of cover to our patients and the locality of Hobson's Bay.</p>
-                                    
-                                    <div className="common-btn">
-                                        <Link href="/appointment">
-                                            <a>Book Online</a>
-                                        </Link>
-                                        <Link href="/services">
-                                            <a className="cmn-btn-right">Learn More</a>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="slider-item slider-item-img">
-                    <div className="d-table">
-                        <div className="d-table-cell">
-                            <div className="container">
-                                <div className="slider-text">
-                                    <div className="slider-shape-three">
-                                        <img src="/images/home-one/home-slider3.png" alt="Shape" />
-                                    </div>
-                                    <h1>Complete Family Care Medical Centre</h1>
-                                    <p>We set a high level of professionalism for both our doctors and staff, with constant training and up to date emergency procedures. We look at and use experiences as a learning curve to improve our practice and delivery of care. Learning and working together as a team to provide the best level of cover to our patients and the locality of Hobson's Bay.</p>
-                                    
-                                    <div className="common-btn">
-                                        <Link href="/appointment">
-                                            <a>Book Online</a>
-                                        </Link>
-                                        <Link href="/services">
-                                            <a className="cmn-btn-right">Learn More</a>
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </OwlCarousel> : ''}
         </React.Fragment>
     )

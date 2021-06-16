@@ -17,7 +17,7 @@ const OurExpertise = () => {
                                     <div className="expertise-inner">
                                       <i class="icofont-patient-file"></i>
                                         <h3> 
-                                            <Link href="/#">
+                                            <Link href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/scripts/loc/1">
                                                 <a>Request Script</a>
                                             </Link>
                                         </h3>
@@ -28,7 +28,7 @@ const OurExpertise = () => {
                                     <div className="expertise-inner">
                                       <i class="icofont-prescription"></i>
                                         <h3> 
-                                            <Link href="/#">
+                                            <Link href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/referrals/loc/1">
                                                 <a>Request Referral</a>
                                             </Link>
                                         </h3>
@@ -39,7 +39,7 @@ const OurExpertise = () => {
                                     <div className="expertise-inner">
                                        <i class="icofont-clock-time"></i> 
                                         <h3> 
-                                            <Link href="/#">
+                                            <Link href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors/d/Dr-Ben-Mansoori">
                                                 <a>After Hours</a>
                                             </Link>
                                         </h3>
@@ -50,7 +50,7 @@ const OurExpertise = () => {
                                     <div className="expertise-inner">
                                       <i class="icofont-eye-alt"></i>
                                         <h3> 
-                                            <Link href="/#">
+                                            <Link href="https://www.theeyelab.com.au/appointment/">
                                                 <a>Optometry</a>
                                             </Link>
                                         </h3>

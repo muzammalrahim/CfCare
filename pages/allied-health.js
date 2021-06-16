@@ -11,10 +11,10 @@ const Departments = () => {
             <TopHeader />
             <Navbar />
             <PageBanner 
-                pageTitle="Departments" 
+                pageTitle="Allied Health" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Departments" 
+                activePageText="Allied Health" 
                 bgImage="page-title-one" 
             /> 
 

@@ -31,15 +31,15 @@ const DoctorDetails = () => {
                                     <ul>
                                         <li>
                                             <i className="icofont-ui-call"></i>
-                                            Call: +07 554 332 322
+                                            Call: +03 9391 0033
                                         </li>
                                         <li>
                                             <i className="icofont-ui-message"></i>
-                                            hello@disin.com
+                                            management@cfcare.com.au
                                         </li>
                                         <li>
                                             <i className="icofont-location-pin"></i>
-                                            4th Floor, 408 No Chamber
+                                            471 Melbourne Road, Newport, Melbourne, Victoria 3015
                                         </li>
                                     </ul>
                                 </div>
@@ -57,6 +57,7 @@ const DoctorDetails = () => {
                                         </div>
                                     </div>
                                 </div>
+                                
                             </div>
                         </div>
 
