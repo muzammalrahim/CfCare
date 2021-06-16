@@ -24,7 +24,7 @@ const Footer = () => {
                                         </li>
                                         <li>
                                             <i className="icofont-location-pin"></i>
-                                            471 Melbourne Road, Newport, Melbourne, Victoria 3015
+                                            <a href="https://goo.gl/maps/ppZZzknFoGGsBDpv7">471 Melbourne Road, Newport, Melbourne, Victoria 3015</a>
                                         </li>
                                         <li>
                                             <i className="icofont-medical-sign"></i>
@@ -61,7 +61,7 @@ const Footer = () => {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/services">
+                                            <Link href="/allied-health">
                                                 <a>Allied Health</a>
                                             </Link>
                                         </li>
@@ -76,19 +76,22 @@ const Footer = () => {
                                     <h3>Quick Bookings</h3>
                                     <ul>
                                         <li>
-                                            <a href="https://www.cfcare.com.au/">Request Script</a>
+                                            <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/scripts/loc/1">Request Script</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.cfcare.com.au/">After Hour's Appointment</a>
+                                            <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors/d/Dr-Ben-Mansoori">After Hour's Appointment</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.cfcare.com.au/">Request Referral</a>
+                                            <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/referrals/loc/1">Request Referral</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.cfcare.com.au/">Optometrist</a>
+                                            <a href="https://www.theeyelab.com.au/appointment/">Optometrist</a>
                                         </li>
                                         <li>
-                                            <a href="https://www.cfcare.com.au/">Online Booking</a>
+                                            <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors">Online Booking</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.newportfamilydentist.com.au/">Dentist</a>
                                         </li>
                                     </ul>
                                 </div>
