@@ -60,6 +60,7 @@ const ContactForm = () => {
                         <div className="drop-item drop-img">
                             <div className="drop-left">
                                 <h2>Drop your message for any info or question</h2>
+                                <h6>Please note, to book/change or cancel an appointment, you will need to either call or book online. Script requests cannot be done via the chat or message system.</h6>
 
                                 <form id="contactForm" onSubmit={handleSubmit(onSubmit)}>
                                     <div className="row">

@@ -201,13 +201,9 @@ const Navbar = () => {
                         </div>
 
                         <div className="nav-srh">
-                            <form>
-                                <input type="text" className="form-control" id="search" placeholder="Search..." />
-
-                                <button className="search-icon icon-search">
-                                    <i className="icofont-search-1"></i>
-                                </button>
-                            </form>
+                            <a href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors"><button class="bookings-btn">
+                                Bookings
+                            </button></a>
                         </div>
                     </nav>
                 </div>

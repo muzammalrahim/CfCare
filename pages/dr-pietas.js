@@ -44,27 +44,14 @@ const DoctorDetails = () => {
                                     </ul>
                                 </div>
 
-                                <div className="doctor-details-work">
-                                    <h3>Working hours</h3>
-                                    <div className="appointment-item-two-right">
-                                        <div className="appointment-item-content">
-                                            <ul>
-                                                <li>Monday <span>9:00 AM - 8:00 PM</span></li>
-                                                <li>Tuesday <span>9:00 AM - 8:00 PM</span></li>
-                                                <li>Wednesday <span>9:00 AM - 8:00 PM</span></li>
-                                                <li>Sunday <span>9:00 AM - 8:00 PM</span></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div className="about-item about-right text-center">
-                            <img src="/images/about-shape1.png" alt="About" />
+                                <div className="doctor-details-work about-item about-right text-center">
+                                <img src="/images/about-shape1.png" alt="About" />
                             <h4>Time varies, please go to our online booking</h4>
                             <button class="doctors-details-btn">
                         Book Now
                     </button>
-                        </div>
+                                </div>
+                            </div>
                         </div>
 
                         <div className="col-lg-7">

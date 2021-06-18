@@ -24,74 +24,51 @@ const Departments = () => {
                         <div className="col-sm-6 col-lg-4">
                             <div className="department-item">
                                 <i className="icofont-tooth"></i>
-                                <h3>Dental Care</h3>
+                                <h3>Dentistry</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
                             </div>
                         </div>
 
                         <div className="col-sm-6 col-lg-4">
                             <div className="department-item">
-                                <i className="icofont-baby"></i>
-                                <h3>Baby Care</h3>
+                                 <i class="icofont-eye-alt"></i>
+                                <h3>Optometry</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
                             </div>
                         </div>
 
                         <div className="col-sm-6 col-lg-4">
                             <div className="department-item">
-                                <i className="icofont-laboratory"></i>
-                                <h3>Laboratory</h3>
+                                <i class="icofont-operation-theater"></i>
+                                <h3>Chiropractic</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
                             </div>
                         </div>
 
                         <div className="col-sm-6 col-lg-4">
                             <div className="department-item">
-                                <i className="icofont-icu"></i>
-                                <h3>ICU</h3>
+                                <i class="icofont-brain-alt"></i>
+                                <h3>Psychology</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
                             </div>
                         </div>
 
                         <div className="col-sm-6 col-lg-4">
                             <div className="department-item">
-                                <i className="icofont-dna-alt-2"></i>
-                                <h3>DNA Test</h3>
+                                <i class="icofont-crutch"></i>
+                                <h3>Podiatry</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
                             </div>
                         </div>
 
                         <div className="col-sm-6 col-lg-4">
                             <div className="department-item">
-                                <i className="icofont-surgeon"></i>
-                                <h3>Surgeon</h3>
+                            <i class="icofont-nurse"></i>
+                                <h3>Osteopathy</h3>
                                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
                             </div>
                         </div>
 
-                        <div className="col-sm-6 col-lg-4">
-                            <div className="department-item">
-                                <i className="icofont-xray"></i>
-                                <h3>X-ray</h3>
-                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
-                            </div>
-                        </div>
-
-                        <div className="col-sm-6 col-lg-4">
-                            <div className="department-item">
-                                <i className="icofont-blood-test"></i>
-                                <h3>Blood Test</h3>
-                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
-                            </div>
-                        </div>
-                        
-                        <div className="col-sm-6 offset-sm-3 offset-lg-0 col-lg-4">
-                            <div className="department-item">
-                                <i className="icofont-ambulance-crescent"></i>
-                                <h3>Ambulance Service</h3>
-                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium eaque omnis corporis, animi aspernatur tempora.</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>

@@ -45,7 +45,7 @@ const HeroSlider = () => {
 
                                     <div className="common-btn">
                                         <Link href="/appointment">
-                                            <a>Book Online</a>
+                                            <a className="cmn-btn-right">Book Online</a>
                                         </Link>
                                         <Link href="/services">
                                             <a className="cmn-btn-right">Learn More</a>
