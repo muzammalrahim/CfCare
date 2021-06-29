@@ -3,6 +3,12 @@ $grey-color: #4a6f8a;
 $blue-color: #0046c0;
 $black-color: #111111;
 
+@media only screen and (max-width : 460px) {
+    .d-xs-flex{
+        display: flex !important;
+    }
+}
+
 @media only screen and (max-width : 767px) {
 
     $all-size: 14px;

@@ -21,17 +21,17 @@ const TopHeader = () => {
                                             (03) 9391- 9846
                                         </a>
                                     </li>
-                                    <li>
+                                    <li className="d-sm-inline-block d-none">
                                         <a href="mailto:management@cfcare.com.au">
                                             <i className="icofont-ui-message"></i>
                                            management@cfcare.com.au
                                         </a>
                                     </li>
-                                    <li>
+                                    <li className="d-xs-flex">
                                             <i className="icofont-location-pin"></i>
                                             <a href="https://goo.gl/maps/ppZZzknFoGGsBDpv7">471 Melbourne Road, Newport, Melbourne, Victoria 3015</a>
                                         </li>
-                                    <li>
+                                    <li className="d-sm-inline-block d-none">
                                         <i className="icofont-medical-sign"></i>
                                         In case of emergency, Dial 000
                                     </li>
@@ -44,7 +44,7 @@ const TopHeader = () => {
                         <div className="header-top-item">
                             <div className="header-top-right">
                                 <ul>
-                                    <li>
+                                    <li className="d-sm-inline-block d-none">
                                         <a href="#" target="_blank">
                                             <i className="icofont-facebook"></i>
                                         </a>
