@@ -1,19 +1,18 @@
-import React from 'react';
-import Link from 'next/link';
-import NewsletterForm from '../Common/NewsletterForm';
+import React from "react";
+import Link from "next/link";
+import NewsletterForm from "../Common/NewsletterForm";
 
 const LatestBlogPost = () => {
-    return (
-        <div className="blog-area pt-100 pb-70">
-            <div className="container">
-                <div className="section-title">
-                    <h2>Our Newsletter</h2>
-                </div>
+  return (
+    <div className="blog-area pt-100 pb-70">
+      <div className="container">
+        {/* <div className="section-title">
+          <h2>Our Newsletter</h2>
+        </div> */}
 
-                <NewsletterForm />
-                
+        {/* <NewsletterForm /> */}
 
-                {/* <div className="row">
+        {/* <div className="row">
                     <div className="col-md-6 col-lg-4">
                         <div className="blog-item">
                             <div className="blog-top">
@@ -113,9 +112,9 @@ const LatestBlogPost = () => {
                         </div>
                     </div>
                 </div> */}
-            </div>
-        </div>
-    )
-}
+      </div>
+    </div>
+  );
+};
 
 export default LatestBlogPost;
