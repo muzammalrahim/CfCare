@@ -229,6 +229,13 @@ const Navbar = () => {
                 </li>
 
                 <li className="nav-item">
+                  <Link href="/faq" activeClassName="active">
+                    <a onClick={toggleNavbar} className="nav-link">
+                      FAQ
+                    </a>
+                  </Link>
+                </li>
+                <li className="nav-item">
                   <Link href="/contact" activeClassName="active">
                     <a onClick={toggleNavbar} className="nav-link">
                       Contact
