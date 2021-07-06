@@ -10,7 +10,7 @@ const Services = () => {
         </div>
 
         <div className="row">
-          <div className="col-sm-6 col-lg-4">
+          {/* <div className="col-sm-6 col-lg-4">
             <div className="service-item">
               <div className="service-front">
                 <i class="icofont-woman-in-glasses"></i>
@@ -33,7 +33,7 @@ const Services = () => {
                 </Link>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div className="col-sm-6 col-lg-4">
             <div className="service-item">
