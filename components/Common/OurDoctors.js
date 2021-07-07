@@ -17,7 +17,10 @@ const OurDoctors = () => {
             <div className="doctor-item">
               <div className="doctor-top">
                 <img src="/images/doctors/pietas.jpg" alt="Doctor" />
-                <Link href="/appointment">
+                <Link
+                  href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors"
+                  passHref={true}
+                >
                   <a>Get Appointment</a>
                 </Link>
               </div>
@@ -36,7 +39,10 @@ const OurDoctors = () => {
             <div className="doctor-item">
               <div className="doctor-top">
                 <img src="/images/doctors/huda.jpg" alt="Doctor" />
-                <Link href="/appointment">
+                <Link
+                  href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors"
+                  passHref={true}
+                >
                   <a>Get Appointment</a>
                 </Link>
               </div>
@@ -56,7 +62,10 @@ const OurDoctors = () => {
               <div className="doctor-top">
                 {/* <img src="/images/doctors/hanna.png" alt="Doctor" /> */}
                 <img src="/images/doctors/richard.jpg" alt="Doctor" />
-                <Link href="/appointment">
+                <Link
+                  href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors"
+                  passHref={true}
+                >
                   <a>Get Appointment</a>
                 </Link>
               </div>

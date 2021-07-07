@@ -4982,7 +4982,7 @@ footer {
 }
 
 .faq-content .accordion .accordion__button:hover, .faq-content .accordion .accordion__button[aria-expanded="true"] {
-  background-color: #0046c0;
+  background-color: #008000;
   color: #fff;
 }
 

@@ -21,12 +21,14 @@ const Faq = () => {
         homePageUrl="/"
         homePageText="Home"
         activePageText="Faq"
-        bgImage="page-title-one"
+        // bgImage="page-title-one"
+        opacity="0.6"
+        colour="#008000"
       />
 
       <div className="ptb-100">
         <div className="container">
-          <div className="faq-content">
+          {/* <div className="faq-content">
             <h2>Dental Care</h2>
 
             <Accordion allowZeroExpanded preExpanded={["a"]}>
@@ -119,9 +121,9 @@ const Faq = () => {
                 </AccordionItemPanel>
               </AccordionItem>
             </Accordion>
-          </div>
+          </div> */}
 
-          <div className="faq-content">
+          {/* <div className="faq-content">
             <h2>Cardiology</h2>
 
             <Accordion allowZeroExpanded preExpanded={["a"]}>
@@ -210,7 +212,7 @@ const Faq = () => {
                 </AccordionItemPanel>
               </AccordionItem>
             </Accordion>
-          </div>
+          </div> */}
 
           <div className="faq-content">
             <h2>Diagnosis</h2>
