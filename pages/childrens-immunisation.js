@@ -21,7 +21,7 @@ const ServiceDetails = () => {
 
       <div className="service-details-area ptb-100">
         <div className="container">
-          <div className="services-details-img">
+          {/* <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
             <h2>Our Hospital Always Provide Good Services</h2>
@@ -89,7 +89,33 @@ const ServiceDetails = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
+          <h2>Preparing your child for life.</h2>
+          <br />
+          <br />
+          <br />
+          <p>
+            There are prerequisites for your child entering school ages and
+            beyond. Through the immunisation schedule, our practice nurse will
+            guide and support you and your family through it all. Starting at
+            birth, your child will be immunised to protect themselves and others
+            against previously harmful diseases, including Mumps, Rubella,
+            Measles, hepatitis B, Meningococcal, Whooping cough, Pertussis and
+            Smallpox.
+            <br />
+            <br />
+            These will be administered at various ages of your child,
+            includings: 6 weeks, 3months, 6months, 12 month and 18 months. They
+            will be able to receive further immunisations during their schooling
+            years, whether through the medical center or their school.
+            <br />
+            <br />
+            For medicare rebates and child care subsidies, it is imperative your
+            child is fully immunised before commencement.
+            <br />
+            <br />
+            This is in conjunction with seasonal flu vaccinations.
+          </p>
         </div>
       </div>
 

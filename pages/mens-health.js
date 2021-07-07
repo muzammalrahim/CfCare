@@ -21,11 +21,39 @@ const ServiceDetails = () => {
 
       <div className="service-details-area ptb-100">
         <div className="container">
-          <div className="services-details-img">
-            <img src="/images/service-details-bg.jpg" alt="Service Details" />
+          {/* <img src="/images/service-details-bg.jpg" alt="Service Details" /> */}
 
-            <h2>Our Hospital Always Provide Good Services</h2>
-            <p>
+          <h2>Men matter too.</h2>
+          <br />
+          <br />
+          <br />
+          <p>
+            In an ever demanding world, the health of men across Australia is
+            being put to the test, whether it is mental health, reproductive
+            health or the odd sunday afternoon footy injury. More emphasis is
+            being put into the health of men of all ages. It is important for
+            men over the age of 65 to get annual prostate screenings. At
+            complete family care and our allied health partners, we offer a
+            range of Male specific health determinants, these include:
+            <br />
+            <br />
+            <ul>
+              <li>Mental health</li>
+              <li>Sports injury & Rehabilitation</li>
+              <li>Reproductive health</li>
+              <li>Prostate Cancer</li>
+              <li>Bowel Cancer</li>
+              <li>Diabetes & Hypertension management</li>
+              <li>Ophthalmology/Optometry</li>
+            </ul>
+            <br />
+            <br />
+            Our doctors with local support of our ever expanding allied health
+            network, will be able to assist you and help in your recovery. For
+            more information, please call the clinic on 9391-0033 or book an
+            online appointment, to speak to one of our doctors today.
+          </p>
+          {/* <p>
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
               ever since the 1500s, when an unknown printer took a galley of
@@ -59,10 +87,10 @@ const ServiceDetails = () => {
               containing Lorem Ipsum passages, and more recently with desktop
               publishing software like Aldus PageMaker including versions of
               Lorem Ipsum.
-            </p>
-          </div>
+            </p> */}
+        </div>
 
-          <div className="row">
+        {/* <div className="row">
             <div className="col-lg-5">
               <div className="service-details-inner-left">
                 <img src="/images/signup-bg.jpg" alt="Service" />
@@ -89,8 +117,7 @@ const ServiceDetails = () => {
                 </p>
               </div>
             </div>
-          </div>
-        </div>
+          </div> */}
       </div>
 
       <Footer />

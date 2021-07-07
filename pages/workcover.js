@@ -21,7 +21,36 @@ const ServiceDetails = () => {
 
       <div className="service-details-area ptb-100">
         <div className="container">
-          <div className="services-details-img">
+          <h2>Helping you through your injury.</h2>
+          <br />
+          <br />
+          <br />
+          <p>
+            Whether it is a work or traffic accident, Australia is fortunate to
+            have a robust and compassionate support system.
+            <br /> <br />
+            Our doctors and reception staff are well versed in the
+            pre-requirements and ongoing management of your workcover or TAC
+            case and the long term management of your workplace injuries, this
+            includes adaptation of your current work requirements and
+            consultation with an occupational therapist and physical therapist.
+            <br /> <br />
+            This will involve a specialised care plan, involving our
+            multidisciplinary team, including other doctors, and allied health
+            teams.
+            <br /> <br />
+            It is important to organise yourself and your TAC/Workcover details
+            before booking your first treatment consultant. There is a
+            requirement for you to pay a gap, before TAC or Workcover can take
+            over payments for your ongoing treatment, it is important that you
+            or your workplace is on top of this, to ensure no delay to your
+            treatment and claim.
+            <br /> <br />
+            If you have any questions please don’t hesitate to call the clinic
+            and speak to one of our reception staff who will be able to walk you
+            through this process.
+          </p>
+          {/* <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
             <h2>Our Hospital Always Provide Good Services</h2>
@@ -89,7 +118,7 @@ const ServiceDetails = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
 

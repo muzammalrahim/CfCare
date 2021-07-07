@@ -21,7 +21,7 @@ const ServiceDetails = () => {
 
       <div className="service-details-area ptb-100">
         <div className="container">
-          <div className="services-details-img">
+          {/* <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
             <h2>Our Hospital Always Provide Good Services</h2>
@@ -89,7 +89,43 @@ const ServiceDetails = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
+          <h2>Caring for you and your new arrival.</h2>
+          <br />
+          <br />
+          <br />
+          <p>
+            Our specialised Doctors, work closely with you and your chosen
+            maternity service, to provide care to you throughout your pregnancy.
+            <br />
+            <br />
+            During your regular visits, we assess the health of you and your
+            baby, and undertake all the required investigations needed
+            throughout your pregnancy. These include referrals: physical
+            examinations, Harmony testing, blood tests, ultrasounds and a
+            referral to an Obstetrician if needed.
+            <br />
+            <br />
+            Shared care also includes, pre- conception counselling,
+            infertility/IVF, and post-partum management.
+            <br />
+            <br />
+            The doctors who specialise in shared care at our clinic include; Dr
+            Sana, Dr Huda and Dr Pietas. They have undergone formal training on
+            top of their medical degrees to help and assist you throughout your
+            pregnancy and will be able to answer any question you may have. When
+            booking an appointment, please mention to reception staff that you
+            are booking a shared care appointment.
+            <br />
+            <br />
+            We look forward to meeting the little one and providing ongoing care
+            for you and them.
+            <br />
+            <br />
+            Our Shared care practitioners are also well trained to help guide
+            you through family planning, these include: Implanon, IUD and oral
+            contraceptives, including postpartum contraceptive options.
+          </p>
         </div>
       </div>
 

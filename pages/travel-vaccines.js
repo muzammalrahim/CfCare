@@ -21,7 +21,7 @@ const ServiceDetails = () => {
 
       <div className="service-details-area ptb-100">
         <div className="container">
-          <div className="services-details-img">
+          {/* <div className="services-details-img">
             <img src="/images/service-details-bg.jpg" alt="Service Details" />
 
             <h2>Our Hospital Always Provide Good Services</h2>
@@ -89,7 +89,39 @@ const ServiceDetails = () => {
                 </p>
               </div>
             </div>
-          </div>
+          </div> */}
+          <h2>Protecting you in other countries.</h2>
+          <br />
+          <br />
+          <br />
+          <p>
+            Depending on the country you visit, you may be required to undertake
+            additional vaccination against other diseases, which may be uncommon
+            or unheard of in Australia.
+            <br />
+            <br />
+            Our specialised Doctors, will advise you on the requirements you
+            need to pass to re enter Australia. These vaccines include; Yellow
+            Fever, Typhoid, Malaria, cholera, Hepatitis A, Tuberculosis and
+            Rabies.
+            <br />
+            <br />
+            This all depends on the country/countries you will be visiting.
+            <br />
+            <br />
+            Your doctor will be able to give you general health and safety
+            advice, including: where to eat, what not to eat, and how to best
+            protect yourself while you enjoy your trip.
+            <br />
+            <br />
+            If you are unsure of when you need to receive these vaccinations,
+            please speak to your doctor well before your trip to avoid any
+            inconvenience.
+            <br />
+            <br />
+            Please call reception or book online to chat to your preferred
+            doctor before travel.
+          </p>
         </div>
       </div>
 
