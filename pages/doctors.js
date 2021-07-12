@@ -71,30 +71,30 @@ const Doctors = () => {
       categoryy: "Dental Care",
       link: "/dr-roozbeh",
     },
-    {
-      id: 8,
-      name: "Rhiannon Hedra",
-      category: "Diabetes Educator",
-      image: "/images/doctors/doctor9.jpg",
-      categoryy: "Dental Care",
-      link: "/rhiannon-hedra",
-    },
-    {
-      id: 9,
-      name: "Marian Salib",
-      category: "Dietitian",
-      image: "/images/doctors/doctor9.jpg",
-      categoryy: "Pathology",
-      link: "/marian-salib",
-    },
-    {
-      id: 10,
-      name: "Optometrist",
-      category: "Dental Surgeon",
-      image: "/images/doctors/doctor9.jpg",
-      categoryy: "Pathology",
-      link: "/optometrist",
-    },
+    // {
+    //   id: 8,
+    //   name: "Rhiannon Hedra",
+    //   category: "Diabetes Educator",
+    //   image: "/images/doctors/doctor9.jpg",
+    //   categoryy: "Dental Care",
+    //   link: "/rhiannon-hedra",
+    // },
+    // {
+    //   id: 9,
+    //   name: "Marian Salib",
+    //   category: "Dietitian",
+    //   image: "/images/doctors/doctor9.jpg",
+    //   categoryy: "Pathology",
+    //   link: "/marian-salib",
+    // },
+    // {
+    //   id: 10,
+    //   name: "Optometrist",
+    //   category: "Dental Surgeon",
+    //   image: "/images/doctors/doctor9.jpg",
+    //   categoryy: "Pathology",
+    //   link: "/optometrist",
+    // },
   ];
 
   const [namee, setNamee] = useState("");
@@ -136,7 +136,7 @@ const Doctors = () => {
                   </button>
                 </div>
               </div>
-
+              {/* 
               <div className="col-sm-6 col-lg-6">
                 <div className="doctor-search-item">
                   <div className="form-group">
@@ -153,7 +153,7 @@ const Doctors = () => {
                     </select>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </form>
         </div>

@@ -214,7 +214,7 @@ const Faq = () => {
             </Accordion>
           </div> */}
 
-          <div className="faq-content">
+          {/* <div className="faq-content">
             <h2>Diagnosis</h2>
 
             <Accordion allowZeroExpanded preExpanded={["a"]}>
@@ -303,7 +303,7 @@ const Faq = () => {
                 </AccordionItemPanel>
               </AccordionItem>
             </Accordion>
-          </div>
+          </div> */}
 
           <div className="faq-content">
             <h2>F.A.Q</h2>

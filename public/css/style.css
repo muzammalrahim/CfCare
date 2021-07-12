@@ -398,7 +398,9 @@ button:focus {
 /*-- End Navbar --*/
 /*-- Home Slider --*/
 .slider-item-img {
-  background-image: url("/images/home-one/home-slider-bg.jpg");
+  /* background-image: url("/images/home-one/home-slider-bg.jpg"); */
+  background-color: #66B366;
+  opacity: 0.8;
 }
 
 .slider-item {

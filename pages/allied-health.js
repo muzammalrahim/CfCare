@@ -53,27 +53,26 @@ const Departments = () => {
                 <div className="department-item">
                   <i className="icofont-tooth"></i>
                   <h3>Dentistry</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Praesentium eaque omnis corporis, animi aspernatur tempora.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </Link>
 
             <Link
               passHref={true}
-              href="https://www.theeyelab.com.au
-"
+              href="https://www.theeyelab.com.au/appointment/"
             >
               <div className="col-sm-6 col-lg-4">
                 <div className="department-item">
                   <i class="icofont-eye-alt"></i>
                   <h3>Optometry</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Praesentium eaque omnis corporis, animi aspernatur tempora.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </Link>
@@ -108,10 +107,10 @@ const Departments = () => {
                 <div className="department-item">
                   <i class="icofont-crutch"></i>
                   <h3>Podiatry</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Praesentium eaque omnis corporis, animi aspernatur tempora.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </Link>
@@ -125,10 +124,10 @@ const Departments = () => {
                 <div className="department-item">
                   <i class="icofont-nurse"></i>
                   <h3>Osteopathy</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit.
                     Praesentium eaque omnis corporis, animi aspernatur tempora.
-                  </p>
+                  </p> */}
                 </div>
               </div>
             </Link>

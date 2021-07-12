@@ -6,7 +6,7 @@ const OurExpertise = () => {
     <div className="expertise-area pb-70">
       <div className="container">
         <div className="section-title">
-          <h2>Other Bookings</h2>
+          <h2>Other Services</h2>
         </div>
 
         <div className="row align-items-center">
@@ -21,9 +21,9 @@ const OurExpertise = () => {
                         <a>Request Script</a>
                       </Link>
                     </p>
-                    <p>
+                    {/* <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <div className="col-sm-6 col-lg-6">
@@ -34,9 +34,9 @@ const OurExpertise = () => {
                         <a>Request Referral</a>
                       </Link>
                     </p>
-                    <p>
+                    {/* <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <div className="col-sm-6 col-lg-6">
@@ -47,9 +47,9 @@ const OurExpertise = () => {
                         <a>After Hours</a>
                       </Link>
                     </p>
-                    <p>
+                    {/* <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <div className="col-sm-6 col-lg-6">
@@ -60,9 +60,9 @@ const OurExpertise = () => {
                         <a>Optometry</a>
                       </Link>
                     </p>
-                    <p>
+                    {/* <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    </p>
+                    </p> */}
                   </div>
                 </div>
               </div>

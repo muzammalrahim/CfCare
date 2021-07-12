@@ -47,18 +47,18 @@ const Services = () => {
                 <div className="service-front">
                   <i class="icofont-business-man"></i>
                   <h3>Men's Health</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
                 </div>
                 <div className="service-end">
                   <i class="icofont-business-man"></i>
                   <h3>Men's Health</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
 
                   <Link href="/mens-health">
                     <a>Read More</a>
@@ -72,18 +72,18 @@ const Services = () => {
                 <div className="service-front">
                   <i class="icofont-labour"></i>
                   <h3>Workcover & TAC</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
                 </div>
                 <div className="service-end">
                   <i class="icofont-labour"></i>
                   <h3>Workcover & TAC</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
 
                   <Link href="/workcover">
                     <a>Read More</a>
@@ -97,18 +97,18 @@ const Services = () => {
                 <div className="service-front">
                   <i class="icofont-injection-syringe"></i>
                   <h3>Children's Immunisation</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
                 </div>
                 <div className="service-end">
                   <i class="icofont-injection-syringe"></i>
                   <h3>Children's Immunisation</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
 
                   <Link href="/childrens-immunisation">
                     <a>Read More</a>
@@ -122,18 +122,18 @@ const Services = () => {
                 <div className="service-front">
                   <i class="icofont-airplane-alt"></i>
                   <h3>Travel Vaccines</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
                 </div>
                 <div className="service-end">
                   <i class="icofont-airplane-alt"></i>
                   <h3>Travel Vaccines</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
 
                   <Link href="/travel-vaccines">
                     <a>Read More</a>
@@ -147,18 +147,18 @@ const Services = () => {
                 <div className="service-front">
                   <i class="icofont-medical-sign"></i>
                   <h3>Allied Health</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
                 </div>
                 <div className="service-end">
                   <i class="icofont-medical-sign"></i>
                   <h3>Allied Health</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
 
                   <Link href="/allied-health">
                     <a>Read More</a>
@@ -172,18 +172,18 @@ const Services = () => {
                 <div className="service-front">
                   <i class="icofont-icu"></i>
                   <h3>Shared Care</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
                 </div>
                 <div className="service-end">
                   <i class="icofont-icu"></i>
                   <h3>Shared Care</h3>
-                  <p>
+                  {/* <p>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                     do eiusmod
-                  </p>
+                  </p> */}
 
                   <Link href="/shared-care">
                     <a>Read More</a>
@@ -192,7 +192,7 @@ const Services = () => {
               </div>
             </div>
 
-            <div className="col-sm-6 col-lg-4">
+            {/* <div className="col-sm-6 col-lg-4">
               <div className="service-item">
                 <div className="service-front">
                   <i class="icofont-eye-alt"></i>
@@ -215,8 +215,8 @@ const Services = () => {
                   </Link>
                 </div>
               </div>
-            </div>
-
+            </div> */}
+            {/* 
             <div className="col-sm-6 col-lg-4">
               <div className="service-item">
                 <div className="service-front">
@@ -240,7 +240,7 @@ const Services = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
