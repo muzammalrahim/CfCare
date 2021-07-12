@@ -211,7 +211,7 @@ const Navbar = () => {
                         </a>
                       </Link>
                     </li>
-                    <li className="nav-item">
+                    {/* <li className="nav-item">
                       <Link href="/optometry" activeClassName="active">
                         <a onClick={toggleNavbar} className="nav-link">
                           Optometry
@@ -224,7 +224,7 @@ const Navbar = () => {
                           Dentistry
                         </a>
                       </Link>
-                    </li>
+                    </li> */}
                   </ul>
                 </li>
 
