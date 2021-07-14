@@ -39,7 +39,7 @@ const AboutSection = () => {
                 our patients of Newport as your doctors of choice.
               </p>
 
-              <ul>
+              {/* <ul>
                 <li>
                   <i className="icofont-check-circled"></i>
                   Browse Our Website
@@ -52,7 +52,7 @@ const AboutSection = () => {
                   <i className="icofont-check-circled"></i>
                   Send Messege
                 </li>
-              </ul>
+              </ul> */}
 
               <Link href="/about">
                 <a>Know More</a>

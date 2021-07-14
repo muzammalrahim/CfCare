@@ -407,7 +407,7 @@ button:focus {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 730px;
+  height: 400px;
   position: relative;
 }
 
@@ -445,7 +445,7 @@ button:focus {
 
 .slider-item .slider-text {
   position: relative;
-  margin-top: -160px;
+  margin-top: -10px;
   z-index: 5;
 }
 
