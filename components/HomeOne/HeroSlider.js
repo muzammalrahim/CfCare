@@ -58,9 +58,13 @@ const HeroSlider = () => {
                     </p> */}
 
                     <div className="common-btn">
-                      <Link href="/appointment">
-                        <a className="cmn-btn-right">Book Online</a>
-                      </Link>
+                      <a
+                        href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors"
+                        className="cmn-btn-right"
+                      >
+                        Book Online
+                      </a>
+
                       <Link href="/services">
                         <a className="cmn-btn-right">Learn More</a>
                       </Link>
