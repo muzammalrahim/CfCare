@@ -38,15 +38,15 @@ const HeroSlider = () => {
                 <div className="container">
                   <div className="slider-text">
                     <div className="slider-shape">
-                      <img
+                      {/* <img
                         src="/images/home-one/home-slider1.png"
                         alt="Shape"
-                      />
+                      /> */}
                     </div>
 
                     <h1>Complete Family Care Medical Centre</h1>
                     {/* <p>We set a high level of professionalism for both our doctors and staff, with constant training and up to date emergency procedures. We look at and use experiences as a learning curve to improve our practice and delivery of care. Learning and working together as a team to provide the best level of cover to our patients and the locality of Hobson's Bay.</p> */}
-                    <p>
+                    {/* <p>
                       The Complete Family care was established, 25 years ago,
                       with the purchase of an old nursing home during the summer
                       of 1992. Over the years of working as a team, providing
@@ -55,12 +55,16 @@ const HeroSlider = () => {
                       Team of Complete Family care has learn and work together
                       provide the best level of cover to our patients of Newport
                       as your doctors of choice.
-                    </p>
+                    </p> */}
 
                     <div className="common-btn">
-                      <Link href="/appointment">
-                        <a className="cmn-btn-right">Book Online</a>
-                      </Link>
+                      <a
+                        href="https://automedsystems.com.au/online/clinics/64/complete-family-care-medical-centre-newport-3015/doctors"
+                        className="cmn-btn-right"
+                      >
+                        Book Online
+                      </a>
+
                       <Link href="/services">
                         <a className="cmn-btn-right">Learn More</a>
                       </Link>

@@ -21,15 +21,25 @@ const AboutSection = () => {
           <div className="col-lg-6">
             <div className="about-item about-right">
               <img src="/images/about-shape1.png" alt="About" />
-              <h2>About Our Hospital</h2>
-              <p>
+              <h2>About Our Clinic</h2>
+              {/* <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis
                 ipsum suspendisse ultrices gravida. Risus commodo viverra
                 maecenas accumsan lacus vel facilisis.{" "}
+              </p> */}
+              <p>
+                {" "}
+                The Complete Family care was established, 25 years ago, with the
+                purchase of an old nursing home during the summer of 1992. Over
+                the years of working as a team, providing the best level of
+                cover to our patients of Newport as your doctors of choice, we
+                have learned and work together The Team of Complete Family care
+                has learn and work together provide the best level of cover to
+                our patients of Newport as your doctors of choice.
               </p>
 
-              <ul>
+              {/* <ul>
                 <li>
                   <i className="icofont-check-circled"></i>
                   Browse Our Website
@@ -42,9 +52,9 @@ const AboutSection = () => {
                   <i className="icofont-check-circled"></i>
                   Send Messege
                 </li>
-              </ul>
+              </ul> */}
 
-              <Link href="/about">
+              <Link href="/services">
                 <a>Know More</a>
               </Link>
             </div>

@@ -398,14 +398,16 @@ button:focus {
 /*-- End Navbar --*/
 /*-- Home Slider --*/
 .slider-item-img {
-  background-image: url("/images/home-one/home-slider-bg.jpg");
+  /* background-image: url("/images/home-one/home-slider-bg.jpg"); */
+  background-color: #66B366;
+  opacity: 0.8;
 }
 
 .slider-item {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  height: 730px;
+  height: 400px;
   position: relative;
 }
 
@@ -443,7 +445,7 @@ button:focus {
 
 .slider-item .slider-text {
   position: relative;
-  margin-top: -160px;
+  margin-top: -10px;
   z-index: 5;
 }
 
@@ -4982,7 +4984,7 @@ footer {
 }
 
 .faq-content .accordion .accordion__button:hover, .faq-content .accordion .accordion__button[aria-expanded="true"] {
-  background-color: #0046c0;
+  background-color: #008000;
   color: #fff;
 }
 

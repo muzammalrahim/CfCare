@@ -14,7 +14,9 @@ const Appointment = () => {
         homePageUrl="/"
         homePageText="Home"
         activePageText="Appointment"
-        bgImage="page-title-one"
+        // bgImage="page-title-one"
+        opacity="0.6"
+        colour="#008000"
       />
 
       <div className="appointment-area-two ptb-100">

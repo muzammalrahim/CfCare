@@ -16,7 +16,9 @@ const DoctorDetails = () => {
         homePageUrl="/"
         homePageText="Home"
         activePageText="Dr. Richard Cai"
-        bgImage="page-title-five"
+        // bgImage="page-title-five"
+        opacity="0.6"
+        colour="#008000"
       />
 
       <div className="doctor-details-area pt-100 pb-70">
