@@ -34,11 +34,11 @@ const Doctors = () => {
         },
         {
             id: 3,
-            name: 'Dr. Matthew Wilson',
+            name: 'Dr. Mathew Wilson',
             category: 'Neurosurgeon',
             image: '/images/doctors/matthew.jpg',
             categoryy:'Cardiology',
-            link: '/dr-matthew'
+            link: '/dr-mathew'
         },
         {
             id: 4,
