@@ -3906,6 +3906,13 @@ footer {
   margin-bottom: 20px;
 }
 
+@media only screen and (max-width: 540px){
+  .hours{
+    display: block;
+    
+  }
+}
+
 .coming-item p {
   margin-bottom: 40px;
   max-width: 865px;
