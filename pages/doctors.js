@@ -34,7 +34,7 @@ const Doctors = () => {
     {
       id: 3,
       name: "Dr. Mathew Wilson",
-      category: "Neurosurgeon",
+      category: "Sports Medicine, Children’s Health and Chronic Disease Management",
       image: "/images/doctors/matthew.jpg",
       categoryy: "Cardiology",
       link: "/dr-mathew",
@@ -42,7 +42,7 @@ const Doctors = () => {
     {
       id: 4,
       name: "Dr. Sunil Bhojwani",
-      category: "Neurosurgeon",
+      category: "General Practice",
       image: "/images/doctors/faro.jpg",
       categoryy: "Cardiology",
       link: "/dr-sunil",
