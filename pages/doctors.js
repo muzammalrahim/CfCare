@@ -89,6 +89,15 @@ const Doctors = () => {
       link: "/dr-hamsa",
     },
     // {
+    //   id: 9,
+    //   name: "Dr. Hamsa Al-Janabi",
+    //   category: "Womens health and General practie",
+    //   image: "/images/doctors/hamsa.jpg",
+    //   categoryy: "Dental Care",
+    //   link: "/dr-hamsa",
+    // },
+
+    // {
     //   id: 8,
     //   name: "Rhiannon Hedra",
     //   category: "Diabetes Educator",
