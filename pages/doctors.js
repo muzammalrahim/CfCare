@@ -34,7 +34,8 @@ const Doctors = () => {
     {
       id: 3,
       name: "Dr. Mathew Wilson",
-      category: "Sports Medicine, Children’s Health and Chronic Disease Management",
+      category:
+        "Sports Medicine, Children’s Health and Chronic Disease Management",
       image: "/images/doctors/matthew.jpg",
       categoryy: "Cardiology",
       link: "/dr-mathew",
@@ -70,6 +71,22 @@ const Doctors = () => {
       image: "/images/doctors/roozbeh.jpg",
       categoryy: "Dental Care",
       link: "/dr-roozbeh",
+    },
+    {
+      id: 8,
+      name: "Dr. Senan Al-Safaar",
+      category: "Chronic,Disease and Diabetes",
+      image: "/images/doctors/senan.jpg",
+      categoryy: "Dental Care",
+      link: "/dr-senan",
+    },
+    {
+      id: 9,
+      name: "Dr. Hamsa Al-Janabi",
+      category: "Womens health and General practie",
+      image: "/images/doctors/hamsa.jpg",
+      categoryy: "Dental Care",
+      link: "/dr-hamsa",
     },
     // {
     //   id: 8,
