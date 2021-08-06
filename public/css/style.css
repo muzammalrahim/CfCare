@@ -3836,7 +3836,9 @@ footer {
 .hours{
   display:flex;
   color: white;
+  flex-wrap: wrap;
 }
+
 
 .hours p{
   border: 1px solid white;

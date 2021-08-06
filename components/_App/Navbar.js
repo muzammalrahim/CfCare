@@ -125,6 +125,20 @@ const Navbar = () => {
                         </a>
                       </Link>
                     </li>
+                    <li className="nav-item">
+                      <Link href="/dr-senan" activeClassName="active">
+                        <a onClick={toggleNavbar} className="nav-link">
+                          Dr. Senan Al-Safaar
+                        </a>
+                      </Link>
+                    </li>
+                    <li className="nav-item">
+                      <Link href="/dr-hamsa" activeClassName="active">
+                        <a onClick={toggleNavbar} className="nav-link">
+                          Dr. Hamsa Al-Janabi
+                        </a>
+                      </Link>
+                    </li>
                     {/* <li className="nav-item">
                       <Link href="/rhiannon-hedra" activeClassName="active">
                         <a onClick={toggleNavbar} className="nav-link">

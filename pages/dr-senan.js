@@ -12,10 +12,10 @@ const DoctorDetails = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Dr. Sana Al-Rubaye"
+        pageTitle="Dr. Senan Al-Safaar"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Dr. Sana Al-Rubaye"
+        activePageText="Dr. Senan Al-Safaar"
         // bgImage="page-title-five"
         opacity="0.6"
         colour="#008000"
@@ -26,7 +26,7 @@ const DoctorDetails = () => {
           <div className="row">
             <div className="col-lg-5">
               <div className="doctor-details-item doctor-details-left">
-                <img src="/images/doctors/sana.jpg" alt="Doctor" />
+                <img src="/images/doctors/senan.jpg" alt="Doctor" />
 
                 <div className="doctor-details-contact">
                   <h3>Contact info</h3>
@@ -37,7 +37,7 @@ const DoctorDetails = () => {
                     </li>
                     <li>
                       <i className="icofont-ui-message"></i>
-                      DrSanaAlRubaye@cfcare.com.au
+                      DrSenanAlSafaar@cfcare.com.au
                     </li>
                     <li>
                       <i className="icofont-location-pin"></i>
@@ -58,8 +58,10 @@ const DoctorDetails = () => {
               <div className="doctor-details-item">
                 <div className="doctor-details-right">
                   <div className="doctor-details-biography">
-                    <h3>Dr. Sana Al-Rubaye</h3>
-                    {/* <p>Shared Care, IUD and Implanon</p> */}
+                    <h3>Dr. Senan Al-Safaar</h3>
+                    {/* <p>
+                      Counseling, Psychology, Medical hypnosis, Laser Therapy
+                    </p> */}
                   </div>
 
                   {/* <div className="doctor-details-biography">
@@ -103,18 +105,22 @@ const DoctorDetails = () => {
 
                   <div className="doctor-details-biography">
                     <h3>Education</h3>
+                    {/* <ul>
+                                            <li>PHD Degree in Neurology at University of UCLan School of Medicine Preston (2006)</li>
+                                            <li>Master of Neurosurgery at University of University of Exeter Medical School Exeter (2002)</li>
+                                        </ul> */}
                     <ul>
-                      <li>MBBS</li>
-                      <li>DRANZCOG</li>
+                      <li>MBCHB</li>
+                      <li>FRACGP</li>
                     </ul>
                   </div>
 
                   <div className="doctor-details-biography">
                     <h3>Experience</h3>
                     <ul>
-                      <li>Shared Care</li>
-                      <li>IUD</li>
-                      <li>Implanon</li>
+                      <li>Chronic</li>
+                      <li>Disease</li>
+                      <li>Diabetes</li>
                     </ul>
                   </div>
                 </div>

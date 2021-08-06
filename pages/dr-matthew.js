@@ -48,7 +48,7 @@ const DoctorDetails = () => {
 
                 <div className="doctor-details-work about-item about-right text-center">
                   <img src="/images/about-shape1.png" alt="About" />
-                  <h4>Time varies, please go to our online booking</h4>
+                  <h4>Times vary, please click book now for availability</h4>
                   <button class="doctors-details-btn">Book Now</button>
                 </div>
               </div>
