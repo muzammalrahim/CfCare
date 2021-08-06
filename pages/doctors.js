@@ -33,16 +33,16 @@ const Doctors = () => {
     },
     {
       id: 3,
-      name: "Dr. Matthew Wilson",
-      category: "Neurosurgeon",
+      name: "Dr. Mathew Wilson",
+      category: "Sports Medicine, Children’s Health and Chronic Disease Management",
       image: "/images/doctors/matthew.jpg",
       categoryy: "Cardiology",
-      link: "/dr-matthew",
+      link: "/dr-mathew",
     },
     {
       id: 4,
       name: "Dr. Sunil Bhojwani",
-      category: "Neurosurgeon",
+      category: "General Practice",
       image: "/images/doctors/faro.jpg",
       categoryy: "Cardiology",
       link: "/dr-sunil",
@@ -136,7 +136,7 @@ const Doctors = () => {
                   </button>
                 </div>
               </div>
-              {/* 
+              {/*
               <div className="col-sm-6 col-lg-6">
                 <div className="doctor-search-item">
                   <div className="form-group">

@@ -12,10 +12,10 @@ const DoctorDetails = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Dr. Matthew Wilson"
+        pageTitle="Dr. Mathew Wilson"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Dr. Matthew Wilson"
+        activePageText="Dr. Mathew Wilson"
         // bgImage="page-title-five"
         opacity="0.6"
         colour="#008000"
@@ -58,7 +58,7 @@ const DoctorDetails = () => {
               <div className="doctor-details-item">
                 <div className="doctor-details-right">
                   <div className="doctor-details-biography">
-                    <h3>Dr. Matthew Wilson</h3>
+                    <h3>Dr. Mathew Wilson</h3>
                     {/* <p>MBBS in Neurology, PHD in Neurosurgeon</p> */}
                     {/* <p>
                       Sports Medicine, Children’s Health, Chronic Disease
@@ -66,44 +66,37 @@ const DoctorDetails = () => {
                     </p> */}
                   </div>
 
-                  {/* <div className="doctor-details-biography">
+                  <div className="doctor-details-biography">
                     <h3>Biography</h3>
 
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                      Duis aute irure dolor in reprehenderit in voluptate velit
-                      esse cillum dolore eu fugiat nulla pariatur. Excepteur
-                      sint occaecat cupidatat non proident, sunt in culpa qui
-                      officia deserunt mollit anim id est laborum.
+                      Mathew graduated from the University of Melbourne Medical
+                      School after completing a Bachelor of Science. He then
+                      went on to complete resident years at St Vincent’s
+                      Hospital before undertaking speciality training in general
+                      practice. During this time, he completed a Diploma of
+                      Children’s Health through the University of Sydney. In
+                      2020, he was admitted as a Fellow of the College of
+                      General Practitioners.
                     </p>
 
                     <p>
-                      Sed ut perspiciatis unde omnis iste natus error sit
-                      voluptatem accusantium doloremque laudantium, totam rem
-                      aperiam, eaque ipsa quae ab illo inventore veritatis et
-                      quasi architecto beatae vitae dicta sunt explicabo. Nemo
-                      enim ipsam voluptatem quia voluptas sit aspernatur aut
-                      odit aut fugit, sed quia consequuntur magni dolores eos
-                      qui ratione voluptatem sequi nesciunt.
+                      Mathew enjoys all areas of general practice with special
+                      interests in:
                     </p>
+                    <ul>
+                      <li> Sports Medicine</li>
+                      <li>Children’s Health</li>
+                      <li>Chronic Disease Management</li><br />
+                    </ul>
 
                     <p>
-                      But I must explain to you how all this mistaken idea of
-                      denouncing pleasure and praising pain was born and I will
-                      give you a complete account of the system, and expound the
-                      actual teachings of the great explorer of the truth, the
-                      master-builder of human happiness. No one rejects,
-                      dislikes, or avoids pleasure itself, because it is
-                      pleasure, but because those who do not know how to pursue
-                      pleasure rationally encounter consequences that are
-                      extremely painful.
+                      Mathew is available for consultations by appointment only;
+                      Monday to Friday and alternate Saturdays.
                     </p>
 
                     <p></p>
-                  </div> */}
+                  </div>
 
                   <div className="doctor-details-biography">
                     <h3>Education</h3>
