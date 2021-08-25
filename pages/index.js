@@ -22,7 +22,7 @@ const Index = () => {
   //   setIsOpen(!isOpen);
   // };
   useEffect(() => {
-    setIsOpen(true);
+    setIsOpen(false);
   }, []);
   return (
     <React.Fragment>
