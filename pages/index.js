@@ -29,7 +29,7 @@ const Index = () => {
       <TopHeader />
       <Navbar />
       {/* <input type="button" value="Click to Open Popup" onClick={togglePopup} /> */}
-      {isOpen && (
+      {/* {isOpen && (
         <Popup
           content={
             <>
@@ -41,7 +41,7 @@ const Index = () => {
           }
           handleClose={() => setIsOpen(false)}
         />
-      )}
+      )} */}
 
       <HeroSlider />
       {/* <Popup trigger={<button> Trigger</button>} position="right center">
