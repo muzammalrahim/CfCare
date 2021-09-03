@@ -116,7 +116,6 @@ const DoctorDetails = () => {
                   <div className="doctor-details-biography">
                     <h3>Experience</h3>
                     <ul>
-                      <li>Shared Care</li>
                       <li> Iron Infusion</li>
                     </ul>
                   </div>

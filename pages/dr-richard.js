@@ -62,10 +62,10 @@ const DoctorDetails = () => {
                     {/* <p>Skin Cancer and Basic Feature Treatment</p> */}
                   </div>
 
-                  {/* <div className="doctor-details-biography">
+                  <div className="doctor-details-biography">
                     <h3>Biography</h3>
 
-                    <p>
+                    {/* <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                       sed do eiusmod tempor incididunt ut labore et dolore magna
                       aliqua. Ut enim ad minim veniam, quis nostrud exercitation
@@ -96,10 +96,10 @@ const DoctorDetails = () => {
                       pleasure, but because those who do not know how to pursue
                       pleasure rationally encounter consequences that are
                       extremely painful.
-                    </p>
+                    </p> */}
 
-                    <p></p>
-                  </div> */}
+                    <p>Dr Richard is a dedicated to holistic and patient-centred care through all age groups. I am experienced in basic skin cancer treatment and other procedures like basic fracture treatment.</p>
+                  </div>
 
                   <div className="doctor-details-biography">
                     <h3>Education</h3>
@@ -130,7 +130,7 @@ const DoctorDetails = () => {
                     </p> */}
                     <ul>
                       <li>Skin Cancer</li>
-                      <li>Basic Feature Treatment</li>
+                      <li>Basic Fracture Treatment</li>
                     </ul>
                   </div>
                 </div>

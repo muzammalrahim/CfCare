@@ -12,7 +12,7 @@ const DoctorDetails = () => {
       <Navbar />
 
       <PageBanner
-        pageTitle="Dr. Mathew Wilson"
+        pageTitle="Dr. Matthew Wilson"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Dr. Mathew Wilson"
@@ -58,7 +58,7 @@ const DoctorDetails = () => {
               <div className="doctor-details-item">
                 <div className="doctor-details-right">
                   <div className="doctor-details-biography">
-                    <h3>Dr. Mathew Wilson</h3>
+                    <h3>Dr. Matthew Wilson</h3>
                     {/* <p>MBBS in Neurology, PHD in Neurosurgeon</p> */}
                     {/* <p>
                       Sports Medicine, Children’s Health, Chronic Disease
@@ -70,32 +70,10 @@ const DoctorDetails = () => {
                     <h3>Biography</h3>
 
                     <p>
-                      Mathew graduated from the University of Melbourne Medical
-                      School after completing a Bachelor of Science. He then
-                      went on to complete resident years at St Vincent’s
-                      Hospital before undertaking speciality training in general
-                      practice. During this time, he completed a Diploma of
-                      Children’s Health through the University of Sydney. In
-                      2020, he was admitted as a Fellow of the College of
-                      General Practitioners.
+                    Mathew graduated from the University of Melbourne Medical School after completing a Bachelor of Science. He then went on to complete resident years at St Vincent’s Hospital before undertaking speciality training in general practice. During this time, he completed a Diploma of Children’s Health through the University of Sydney. In 2020, he was admitted as a Fellow of the College of General Practitioners.
                     </p>
 
-                    <p>
-                      Mathew enjoys all areas of general practice with special
-                      interests in:
-                    </p>
-                    <ul>
-                      <li> Sports Medicine</li>
-                      <li>Children’s Health</li>
-                      <li>Chronic Disease Management</li><br />
-                    </ul>
-
-                    <p>
-                      Mathew is available for consultations by appointment only;
-                      Monday to Friday and alternate Saturdays.
-                    </p>
-
-                    <p></p>
+                  
                   </div>
 
                   <div className="doctor-details-biography">

@@ -52,7 +52,7 @@ const OurDoctors = () => {
                     <a>Dr. Huda Al-Rawi</a>
                   </Link>
                 </h3>
-                <span>Shared Care and Iron Infusion</span>
+                <span>Iron Infusion</span>
               </div>
             </div>
           </div>

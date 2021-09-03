@@ -118,8 +118,7 @@ const DoctorDetails = () => {
                   <div className="doctor-details-biography">
                     <h3>Experience</h3>
                     <ul>
-                      <li>Chronic</li>
-                      <li>Disease</li>
+                      <li> Chronic Disease</li>
                       <li>Diabetes</li>
                     </ul>
                   </div>

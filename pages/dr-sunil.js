@@ -114,6 +114,7 @@ const DoctorDetails = () => {
 
                   <div className="doctor-details-biography">
                     <h3>Experience</h3>
+                    <p>Skin</p>
                     <p>General Practice</p>
                   </div>
                 </div>

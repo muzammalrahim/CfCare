@@ -9,8 +9,8 @@ const Doctors = () => {
   const doctorsList = [
     {
       id: 0,
-      name: "Dr. Pietas Nyamayar",
-      category: "Shared Care and Iron Infusion",
+      name: "Dr. Pietas Nyamayaro",
+      category: " Iron Infusion",
       image: "/images/doctors/pietas.jpg",
       categoryy: "Cardiology",
       link: "/dr-pietas",
@@ -18,7 +18,7 @@ const Doctors = () => {
     {
       id: 1,
       name: "Dr. Huda Al-Rawi",
-      category: "Shared Care and Iron Infusion",
+      category: " Iron Infusion",
       image: "/images/doctors/huda.jpg",
       categoryy: "Cardiology",
       link: "/dr-huda",
@@ -26,14 +26,14 @@ const Doctors = () => {
     {
       id: 2,
       name: "Dr. Richard Cai",
-      category: "Skin Specialist",
+      category: "Skin cancer and basic fracture treatment",
       image: "/images/doctors/richard.jpg",
       categoryy: "Cardiology",
       link: "/dr-richard",
     },
     {
       id: 3,
-      name: "Dr. Mathew Wilson",
+      name: "Dr. Matthew Wilson",
       category:
         "Sports Medicine, Children’s Health and Chronic Disease Management",
       image: "/images/doctors/matthew.jpg",
@@ -43,7 +43,7 @@ const Doctors = () => {
     {
       id: 4,
       name: "Dr. Sunil Bhojwani",
-      category: "General Practice",
+      category: "Skin,General Practice",
       image: "/images/doctors/faro.jpg",
       categoryy: "Cardiology",
       link: "/dr-sunil",
@@ -75,7 +75,7 @@ const Doctors = () => {
     {
       id: 8,
       name: "Dr. Senan Al-Safaar",
-      category: "Chronic,Disease and Diabetes",
+      category: "Chronic Disease , Diabetes",
       image: "/images/doctors/hamsa.jpg",
       categoryy: "Dental Care",
       link: "/dr-senan",
@@ -83,7 +83,7 @@ const Doctors = () => {
     {
       id: 9,
       name: "Dr. Hamsa Al-Janabi",
-      category: "Womens health and General practie",
+      category: "Womens health and General practice",
       image: "/images/doctors/senan.jpg",
       categoryy: "Dental Care",
       link: "/dr-hamsa",
