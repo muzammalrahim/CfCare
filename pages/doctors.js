@@ -40,14 +40,7 @@ const Doctors = () => {
       categoryy: "Cardiology",
       link: "/dr-mathew",
     },
-    {
-      id: 4,
-      name: "Dr. Sunil Bhojwani",
-      category: "Skin,General Practice",
-      image: "/images/doctors/faro.jpg",
-      categoryy: "Cardiology",
-      link: "/dr-sunil",
-    },
+
     {
       id: 5,
       name: "Dr. Hanna El Khoury",
