@@ -29,7 +29,7 @@ const Index2 = () => {
             <div className="pb-100">
                 <Stats />
             </div>
-            <AppointmentForm />
+            {/* <AppointmentForm /> */}
             <LatestBlogPost />
             <NewsletterForm />
             <Footer />
